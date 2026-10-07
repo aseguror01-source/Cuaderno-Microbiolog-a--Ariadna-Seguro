@@ -114,13 +114,13 @@ Etiqueta/ficha del BHI → cálculo para 50 mL → pesada y reconstitución con 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Preparación completa supervisada / preparación sin autoclave / demostración de esterilización / análisis documental / otra; descríbela]
-- **Medio preparado:** Caldo BHI; [indica fabricante, referencia y lote]
+- **Nombre y apellidos:** Ariadna Seguro Ruiz
+- **Fecha real de realización:** 07/10/2026
+- **Grupo:** 2 LCB2.
+- **Equipo de trabajo, si procede:** Miriam Garcia, Paula Escobar y Ariadna Seguro.
+- **Rol o tarea principal que realizaste:** Preparar material y pipeteo del disolvente. 
+- **Modalidad realmente realizada:** Preparación completa supervisada
+- **Medio preparado:** Caldo BHI; Laboratorios Conda S.A./ Lote:608301
 - **Preparación prevista por grupo:** 50 mL según la etiqueta/ficha; seis tubos de 8 mL antes de esterilizar.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
