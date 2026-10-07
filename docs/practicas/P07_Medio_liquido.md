@@ -131,7 +131,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
+| Instrumental | Varilla,.... |
 | Equipos | [Enumera los equipos que vas a utilizar] |
 | Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
 
@@ -147,9 +147,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Copia la dosis del BHI y su fuente; calcula la masa para 50 mL, registra la masa pesada y comprueba 6 × 8 = 48 mL y el margen de 2 mL] |
-| Configuración de equipos (si procede) | [Identifica balanza y material de dispensación; registra autoclave, ciclo, temperatura, tiempo y controles reales, o indica qué procede de demostración/documentación] |
-| Características del producto o resultado final | [Indica número de tubos, volumen dispensado por tubo, aspecto del BHI, integridad y etiquetas; sobrante/pérdidas observados, origen de la evidencia y estado de los controles] |
+| Cálculos (si procede) | Por la fórmula que aparece en la práctica:**m (g) = C (g/L) x 0,050L**, y sabiendo que la concentración del reactivo BHI es 37g/, la masa de BHI que debemos pesar para realizar una disolución en 50 ml (0,05l) es de **1,85g** y al utilizar 6 tubos traspasando 8ml de la disolución comprobamos que queda un margen de 2ml sin utilizar (6x8= 48ml) |
+| Configuración de equipos (si procede) | La balanza se ha tarado antes de realizar el pesado y se ha utilizado una pipeta de vidrio graduada de 10 ml con prepipeta de pera; l autoclave se han programado 15min a 121 grados, que se corresponde con el programa 4 ya creado en el autoclave del laboratorio. |
+| Características del producto o resultado final | Se han realizado 6 tubos en el que se dispensó 8 ml en cada uno, al realizar la disolución de caldo de BHI se observa un líquido de color ocre/marrón claro con olor característico, además, en todo momento se realizó según la etiqueta del fabricante y lo que este indicaba; como se esperaba de la practica han sobrado 2ml del caldo de BHI, observado por todo el equipo al succionar el sobrante con la pipeta de vidrio. Todos los controles fueron óptimos. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -228,7 +228,7 @@ Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 
 
 ¿El resultado obtenido y el procedimiento realizado cumplen el objetivo de obtener un medio de cultivo listo para la inoculación y el cultivo de bacterias? Justifica brevemente tu conclusión.
 
-[Escribe aquí tu conclusión.]
+Sí, el resultado obtenido y el procedimiento realizado cumplen el objetivo, ya que se ha preparado correctamente el medio de cultivo BHI, quedando listo para su posterior inoculación y crecimiento de bacterias. El medio presenta un aspecto adecuado, sin alteraciones visibles, por lo que puede utilizarse para el cultivo bacteriano.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
