@@ -163,8 +163,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 1. Masa pesada y envase del BHI; documenta la dosis y el lote sin mostrar datos personales.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Observamos el pesaje del reactivo BHI, tras su pesaje en la báscula portátil (1,85g), este proceso es esencial para la realización de la
+práctica, ya que si el pesaje no es el adecuado los resultados no serán óptimos.
+- **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 2 — Disolución del lote de 50 mL
 
@@ -174,8 +175,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 2. Preparación del BHI con agua destilada; indica cómo se midió el volumen y el aspecto de la disolución.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** En la imagen adjuntada se observa la preparación diluida del BHI con agua destilada. El disolvente se midió en una probeta enrasado con una pipeta Pasteur y calentado en el microondas para que el reactivo se disuelva mejor.
+- **Autoría y modalidad:** Compartida con el grupo
 
 ### Imagen 3 — Dispensación de 8 mL y seis tubos identificados
 
@@ -185,8 +186,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 *Figura 3. Medida de una alícuota y conjunto de seis tubos antes del autoclave; indica el volumen dispensado.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Se absorben 8ml de la disolución con una pipeta y la pera auxiliar, y se echan con cuidado en los tubos que posteriormente entraremos en el autoclave, es importante realizar la dispensación correctamente para que todos los tubos tengan la misma cantidad y obtener un resultado adecuado.
+- **Autoría y modalidad:** Compartida con el Grupo 
 
 ### Imagen 4 — Acondicionamiento y registro del ciclo
 
