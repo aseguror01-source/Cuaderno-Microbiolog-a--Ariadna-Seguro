@@ -131,13 +131,14 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | Varilla,.... |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Varilla, probeta, vaso de precipitado y espátula. |
+| Equipos | Balanza, agitador magnético y autoclave. |
+| Reactivos/materiales | Medio de cultivo, agua destilada y recipiente para preparar el medio. |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Envases limpios y papel no contaminado | Urbanos o asimilables a los urbanos. |
+| Medio de cultivo sobrante. | Según normas de gestión de residuos. |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -197,8 +198,8 @@ práctica, ya que si el pesaje no es el adecuado los resultados no serán óptim
 
 *Figura 4. Soporte, cierres o registro del ciclo autorizado; identifica si realizaste u observaste esta fase.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Se observa que el medio de cultivo se ha preparado siguiendo el procedimiento establecido y queda listo para su esterilización y posterior utilización, manteniendo las condiciones adecuadas para evitar contaminaciones.
+- **Autoría y modalidad:** Compartida con el grupo.
 
 ### Imagen 5 — Caldo BHI final y estado de control
 
@@ -208,8 +209,8 @@ práctica, ya que si el pesaje no es el adecuado los resultados no serán óptim
 
 *Figura 5. Tubos de BHI tras el enfriamiento; describe aspecto, integridad y controles realizados o pendientes.*
 
-- **Pie del alumnado:** [Describe la observación real y su relación con el resultado.]
-- **Autoría y modalidad:** [Propia / compartida con el grupo / demostración / documental; especifica.]
+- **Pie del alumnado:** Tras el enfriamiento, los tubos de BHI presentan el medio de cultivo preparado y solidificado o líquido, según la presentacion utilizada. Se comprueba que los tubos estén correctamente errados y que no presenten fugas ni alteraciones visibles, quedando listos para su posterior utilización.
+- **Autoría y modalidad:** Compartida con el grupo.
 
 Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imágenes para documentar una fase no realizada. Sube cada archivo a la ruta indicada y comprueba la vista previa.
 
