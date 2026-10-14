@@ -144,8 +144,8 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Transcribe la dosificación del fabricante (g/L) y calcula: g/L × 0,125 L = g de polvo. Anota fuente, operación y masa; registra por separado el agua indicada, sin inventar la dosis.] |
-| Configuración de equipos (si procede) | [Identifica balanza, calentamiento/agitación y autoclave; anota solo parámetros reales y el ciclo autorizado. No uses valores del protocolo adjunto sin confirmación local.] |
+| Cálculos (si procede) |Según la fórmula: **masa de polvo (g) = dosificación indicada (g/L) × 0,125 L**, calculamos la masa de agar nutritivo que pesaremos posteriormente para realizar el medio de cultivo. La dosificación indicada es de 23 gramos por litro, este dato lo cogeremos del bote de agar nutritivo, y el resultado de la masa de polvo es de 2,875g, que redondeamos a 2,88g porque la balanza no da el resultado con tres decimales.
+| Configuración de equipos (si procede) | Hemos usado una balanza portátil de la marca Metria, el calentamiento del agua destilada hemos utilizado un microondas de la marca Bluesky y para autoclavar el medio de cultivo hemos usado un autoclave de la marca Presoclave 3 plus, con el programa 4.|
 | Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
@@ -156,25 +156,26 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Pesada y transferencia del medio desecado](../assets/P09/pesada_o_preparacion_de_componentes_01.jpg)
 
-- **Pie de foto:** [Qué se observa: lectura de balanza, Agar nutritivo en polvo, vidrio de reloj o transferencia al recipiente]
-- **Dato de trazabilidad o calidad que demuestra:** [Completa]
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Pie de foto:** En la foto de la pesada se observa la balanza en la que aparece un vidrio de reloj con el agar nutritivo desecado que debemos pesar.
+  En la foto de la transferencia se observa el agar nutritivo cayendo al vaso de precipitado con agua destilada para su posterior disolución.
+- **Dato de trazabilidad o calidad que demuestra:** Lote de agar nutritivo. 111131
+- **Autoría y origen:** Compartida con tu equipo.
 
 ### Imagen 2 — Calentamiento del medio tras la mezcla
 
 ![Calentamiento del medio tras la mezcla](../assets/P09/calentamiento_del_medio_tras_la_mezcla_02.jpg)
 
-- **Pie de foto:** [Recipiente con el medio mezclado durante el calentamiento hasta ebullición]
-- **Control o decisión técnica que demuestra:** [Disolución del agar y desaparición de grumos; indica el equipo utilizado]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** El agar se disolvió en un vaso de precipitado, agua caliente y un varilla de vidrio. Tras no quedar grumos la mezcla se llevó a un frasco de autoclave, que no se cerró del todo y se calentó hasta ebullición en el microondas.
+- **Control o decisión técnica que demuestra:** El agar se disolvió en un vaso de precipitado, agua caliente y un varilla de vidrio. Tras no quedar grumos la mezcla se llevó a un frasco de autoclave, que no se cerró del todo y se calentó hasta ebullición en el microondas.
+- **Autoría y origen:** Ejecución propia.
 
 ### Imagen 3 — Recipiente dentro del autoclave
 
 ![Botella o matraz con el medio en el interior del autoclave](../assets/P09/recipiente_en_el_autoclave_03.jpg)
 
-- **Pie de foto:** [Botella o matraz autoclavable con el medio, colocado dentro del autoclave antes del ciclo]
-- **Dato de trazabilidad o seguridad que demuestra:** [Identificación del recipiente y acondicionamiento para esterilización; no fotografíes el equipo abierto durante el ciclo]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** El recipiente lleva las iniciales de los componentes del equipo para identificarlo. La botella se metió en el autoclave con media vuelta menos en el tapón para que no estuviera cerrado herméticamente.
+- **Dato de trazabilidad o seguridad que demuestra:**  El recipiente lleva las iniciales de los componentes del equipo para identificarlo. La botella se metió en el autoclave con media vuelta menos en el tapón para que no estuviera cerrado herméticamente.
+- **Autoría y origen:** Ejecución de mi compañera.
 
 ### Imagen 4 — Dispensación aséptica en placas
 
