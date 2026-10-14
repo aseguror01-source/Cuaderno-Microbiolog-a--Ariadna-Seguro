@@ -238,36 +238,38 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento:** ¿Qué precaución específica tomaste al elegir los tapones o cierres de los tubos antes de introducirlos en el autoclave y qué consecuencias de seguridad habría tenido cerrarlos herméticamente?
 
-   Antes de..
+   Antes de introducir los tubos en el autoclave, comprobé que los tapones no estuvieran cerrados herméticamente, para permitir la salida del vapor y evitar que aumentara demasiado la presión en su interior. Si los hubiera cerrado completamente, podrían haberse producido roturas o accidentes debido a la presión generada durante la esterilización.
 
 **2. Interpretación:** El procedimiento indica que no se debe añadir corrector de pH, pero que podría exigirse su comprobación. Si tuvieras que medir el pH del BHI reconstituido, ¿en qué momento exacto del procedimiento descrito lo harías y por qué sería un error medirlo *después* de que los tubos salgan del autoclave?
 
-   [Respuesta del alumnado]
+   Mediría el pH después de disolver el BHI en agua destilada y antes de introducirlo en el autoclave. Así podría comprobar si el medio presenta el pH adecuado antes de esterilizarlo. Medirlo después de la esterilización podría dar lugar a errores si el medio todavía está caliente, ya que la temperatura puede influir en la medición. Además, el procedimiento indica que no se debe añadir ningún corrector de pH.
 
 **3. Conclusiones:** Si dentro de unos días observaras que uno de los tubos almacenados presenta turbidez sin haber sido inoculado por nadie, ¿qué fallo en el procedimiento, material o equipo deducirías que ha ocurrido?
 
-   [Respuesta del alumnado]
+   Deduciría que podría haberse producido una contaminación del medio debido a una esterilización insuficiente en el autoclave, a una manipulación inadecuada o a un cierre incorrecto de los tubos durante su preparación o almacenamiento. La turbidez podría indicar crecimiento microbiano, por lo que habría que revisar el procedimiento y comprobar que el autoclave funcionó correctamente.
 
 **4. Aprendizaje y transferencia:** Imagina que en un laboratorio real te piden escalar esta preparación para hacer 150 tubos de 8 mL de BHI. ¿Cómo modificarías tus cálculos iniciales de masa y volumen total (incluyendo un margen de seguridad proporcional)?
 
-   [Respuesta del alumnado]
+   Primero calcularía el volumen total necesario: 150 tubos × 8 mL = 1.200 mL (1,2 L). Después calcularía la cantidad de BHI en polvo según la concentración indicada por el fabricante. Añadiría un margen de seguridad proporcional del 10 %, por lo que prepararía 1.320 mL de medio para compensar posibles pérdidas durante la preparación y distribución. Finalmente, repartiría 8 mL en cada tubo, siguiendo el procedimiento de esterilización establecido.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P07` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 07/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, dosis y preparación | [BHI: fabricante/referencia, dosis de etiqueta, masa calculada/pesada y preparación de 50 mL] |
-| Dispensación y esterilización | [Seis tubos: volumen dispensado, identificación, ciclo y controles; indica incidencias y modalidad] |
-| Componentes, lotes y caducidades relevantes | [Completa] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos y conservación | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Equipo. |
+| Medio, dosis y preparación | [BHI: Laboratorio Conda S.A, dosis de etiqueta y preparación de 50 mL] |
+| Dispensación y esterilización | [Seis tubos: 8 ml, identificación, ciclo 4; ninguna incidencia |
+| Componentes, lotes y caducidades relevantes | Lote: 608301; Caducado |
+| Controles | Se calculó la cantidad de BHI necesaria para preparar 50 mL de medio, obteniendo 1,85 g de BHI. Se preparó la disolución con agua destilada caliente y se repartieron 8 mL en cada uno de los seis tubos, quedando un margen de 2 mL.
+La balanza se taró antes de pesar y se utilizaron una pipeta graduada y una propipeta para medir y repartir el medio. Después, los tubos se esterilizaron en el autoclave a 121 °C durante 15 minutos. Finalmente, se observó un líquido de color ocre/marrón claro, como se esperaba, y se comprobó que los materiales y equipos funcionaban correctamente. |
+| Resultado | Se calculó la cantidad de BHI necesaria para preparar 50 mL de medio, obteniendo 1,85 g de BHI. Se preparó la disolución con agua destilada caliente y se repartieron 8 mL en cada uno de los seis tubos, quedando un margen de 2 mL.
+La balanza se taró antes de pesar y se utilizaron una pipeta graduada y una propipeta para medir y repartir el medio. Después, los tubos se esterilizaron en el autoclave a 121 °C durante 15 minutos. Finalmente, se observó un líquido de color ocre/marrón claro, como se esperaba, y se comprobó que los materiales y equipos funcionaban correctamente. |
+| Interpretación | La preparación del BHI se considera correcta si se han utilizado las cantidades adecuadas, se han repartido 50 mL en seis tubos de aproximadamente 8 mL y el medio presenta un aspecto homogéneo. Sin embargo, es necesario comprobar la esterilidad para garantizar que no existe contaminación y que el medio es apto para su uso posterior. |
+| Incidencias y acciones correctoras | NO SE DETECTARON INCIDENCIAS. |
+| Ruta de residuos y conservación | Se conservaron los tubos identificados y cerrados adecuadamente. Los residuos se eliminaron según las normas de gestión de residuos. |
+| Estado de entrega | Entregado |
 
 ---
