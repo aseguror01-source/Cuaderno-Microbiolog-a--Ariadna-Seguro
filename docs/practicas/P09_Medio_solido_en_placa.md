@@ -126,13 +126,15 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Vidrio de reloj, espátula, probeta, varilla y material de dispensación realmente utilizado] |
-| Equipos | [Balanza, placa calefactora/agitación, autoclave y zona autorizada realmente utilizados; «No aplica» si procede] |
-| Reactivos/materiales | [Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados] |
+| Instrumental | Vidrio de reloj, espátula, probeta, varilla, frasco de autoclave, vasos de precipitado, embudo, papel de filtro. |
+| Equipos | Balanza, placa calefactora/agitación, autoclave y microondas. |
+| Reactivos/materiales | Agar nutritivo en polvo, agua destilada previamente calentada, recipiente autoclavable, seis placas estériles, etiquetas y EPI realmente utilizados |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Agar Nutritivo | Asimilables a los urbanos |
+| Pipeta Pasteur | Asimilables a los urbanos |
+| Papel de filtro | Asimilables a los urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
