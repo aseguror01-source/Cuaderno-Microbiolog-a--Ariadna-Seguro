@@ -109,13 +109,13 @@ El protocolo docente adjunto (Práctica 3) propone 125 mL como volumen aproximad
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Equipo de trabajo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada en el laboratorio de Microbiología; describe cualquier fase que no hayas realizado personalmente]
-- **Nombre o código del medio preparado:** [Completa]
+- **Nombre y apellidos:** Ariadna Seguro Ruiz.
+- **Fecha real de realización:** 14/10/2026.
+- **Grupo:** 2 LCB2.
+- **Equipo de trabajo, si procede:** Miriam García y Paula Escobar.
+- **Rol o tarea principal que realizaste:** Preparación del material, pesada de Agar nutritivo y traspasar agar a frasco de autoclave y calentamiento.
+- **Modalidad realmente realizada:** Ejecución real supervisada en el laboratorio de Microbiología.
+- **Nombre o código del medio preparado:** Agar Nutrtivo
 - **Volumen previsto:** `125 mL` de Agar nutritivo; el protocolo docente estima unas seis placas. Registra el volumen y número realmente obtenidos, si procede.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
