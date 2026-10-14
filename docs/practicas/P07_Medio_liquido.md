@@ -218,7 +218,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias durante la preparación. | Se siguió el procedimiento indicado y se utilizaron correctamente los materiales. | Se respetaron las cantidades indicadas, se mezcló el BHI con agua destilada caliente y se esterilizó en autoclave | No, ya que no se detectaron problemas durante la preparación. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
