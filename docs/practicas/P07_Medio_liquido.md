@@ -223,7 +223,7 @@ Puedes añadir hasta tres evidencias más si son pertinentes; no fabriques imág
 
 Interpreta si el lote de BHI cumple la dosis de su ficha, la preparación de 50 mL, la dispensación de seis tubos de 8 mL y los criterios de homogeneidad, acondicionamiento, identificación y esterilización previstos. Explica qué evidencia sostiene esa valoración, qué resultado dejarías como pendiente hasta completar el control de esterilidad y por qué un medio aparentemente correcto no garantiza por sí solo su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+La preparación del medio de cultivo BHI se considera correcta si se ha utilizado la cantidad indicada, se han preparado 50 mL y se han distribuido en seis tubos con aproximadamente 8 mL cada uno. El medio debe presentar un aspecto homogéneo y los tubos deben estar correctamente identificados. Sin embargo, aunque la preparación parezca correcta, es necesario realizar un control de esterilidad para comprobar que no existe contaminación microbiana. Hasta obtener ese resultado, no se puede garantizar que el medio sea apto para su uso posterior.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
