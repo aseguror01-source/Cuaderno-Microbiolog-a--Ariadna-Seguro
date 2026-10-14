@@ -197,7 +197,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No se detectaron causas de error durante el procedimiento | No fue necesario aplicar medidas correctoras | No. No se detectaron incidencias que afectaran al resultado obtenido. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
