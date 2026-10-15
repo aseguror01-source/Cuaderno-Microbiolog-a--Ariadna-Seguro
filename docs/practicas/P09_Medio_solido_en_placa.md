@@ -236,15 +236,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P09` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 14/10/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.a–CE03.h` |
-| Agrupamiento | [Individual / equipo; especifica] |
-| Medio, fórmula, volumen y número de placas | [Agar nutritivo comercial; fabricante/dosis según etiqueta; 125 mL objetivo; número real de placas] |
-| Componentes, lotes y caducidades relevantes | [Producto en polvo, fabricante, lote, caducidad y dosis consultada] |
+| Agrupamiento | Equipo. |
+| Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; Laboratorio Conda S.A; 125 mL objetivo; 6 placas |
+| Componentes, lotes y caducidades relevantes | Producto en polvo, Laboratorio Conda S.A, lote: 111131, caducado. |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Incidencias y acciones correctoras | No se ha detectado ninguna incidencia. |
 | Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
