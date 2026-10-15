@@ -203,13 +203,13 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 Interpreta si las placas obtenidas cumplen los criterios de fórmula, gelificación, homogeneidad, dispensación, identificación y control previstos. Explica qué evidencia sostiene esa valoración, qué resultado debe mantenerse pendiente hasta completar el control de esterilidad y por qué una placa aparentemente correcta no garantiza por sí sola su aptitud para uso posterior.
 
-[Escribe aquí tu interpretación técnica.]
+Las placas preparadas cumplen, aparentemente, los criterios de homogeneidad, solidificación y etiquetado. El medio presenta un aspecto uniforme y un color amarillento. Sin embargo, para confirmar su calidad, es necesario comprobar que no exista contaminación y que el medio esté correctamente solidificado. Por tanto, su aspecto es adecuado, aunque debe verificarse antes de utilizarlo.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento y el medio obtenido permiten considerar alcanzado el objetivo de preparar 125 mL de Agar nutritivo en placa? Justifica tu valoración relacionándola con el resultado y señala cualquier limitación que condicione su uso.
 
-[Escribe aquí tu conclusión.]
+Se ha conseguido preparar el agar nutritivo en placas de Petri a partir del medio de cultivo, siguiendo el procedimiento establecido. El medio presenta un aspecto homogéneo y permite su utilización para el crecimiento de microorganismos. No obstante, es necesario mantener las condiciones de esterilidad y comprobar la ausencia de contaminación para garantizar su uso posterior.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
