@@ -217,19 +217,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión sobre la fórmula, el agente gelificante o la dispensación consideras más crítica para obtener placas de calidad y cómo comprobaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   Considero que la dispensación del medio en las placas es una decisión importante, ya que influye en su calidad. Es fundamental elegir la fórmula adecuada, medir correctamente los componentes y mantener una técnica aséptica para evitar contaminaciones.
 
 2. **Interpretación:** ¿Cómo interpretas la presencia de condensación excesiva en la tapa de las placas tras su solidificación, y qué impacto negativo puede tener en el momento de realizar una siembra por extensión o estría?
 
-   [Respuesta del alumnado]
+   La condensación excesiva puede provocar que las gotas de agua caigan sobre el agar y alteren la distribución de los microorganismos durante la siembra. Esto puede dificultar la interpretación de los resultados y favorecer la contaminación.
 
 3. **Conclusiones:** ¿Qué datos mínimos de trazabilidad deben figurar obligatoriamente en el etiquetado de cada placa (o paquete de placas) para garantizar su correcta identificación y control de calidad a largo plazo?
 
-   [Respuesta del alumnado]
+  En el etiquetado de cada placa deben aparecer, como mínimo, la identificación del grupo o alumno, el tipo de medio y la fecha de preparación. Estos datos permiten identificar las muestras y garantizar su trazabilidad y control de calidad.
 
 4. **Aprendizaje y transferencia:** ¿De qué manera la destreza adquirida en el manejo estéril durante el vertido de placas influirá en la precisión de tus futuras técnicas de inoculación y siembra?
 
-   [Respuesta del alumnado]
+   La destreza adquirida en el manejo estéril me ayudará a realizar futuras técnicas de inoculación y siembra con mayor precisión, evitando contaminaciones y garantizando resultados más fiables.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
