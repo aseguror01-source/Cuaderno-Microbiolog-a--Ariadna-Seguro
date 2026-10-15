@@ -181,17 +181,17 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 ![Incorporación aséptica del medio esterilizado a las placas](../assets/P09/dispensacion_aseptica_en_placas_04.jpg)
 
-- **Pie de foto:** [La imagen debe mostrar cómo se incorpora a las placas el medio tras su esterilización, de manera aséptica]
-- **Zona autorizada y control aplicado:** [Cabina de seguridad biológica o entorno de la llama; explica la técnica aséptica observada]
-- **Autoría y origen:** [Ejecución propia / demostración docente / registro docente; especifica]
+- **Pie de foto:** Incorporación del agar nutritivo en las placas de Petri mediante una técnica aséptica.
+- **Zona autorizada y control aplicado:** Se realizó junto a la llama del mechero Bunsen, manteniendo las placas abiertas el menor tiempo posible para evitar contaminaciones. 
+- **Autoría y origen:** Ejecución propia.
 
 ### Imagen 5 — Placas finales etiquetadas o control de calidad
 
 ![Placas finales etiquetadas o control de calidad](../assets/P09/placas_finales_etiquetadas_o_control_de_calidad_05.jpg)
 
-- **Pie de foto:** [Aspecto, grosor, rotulado o control de las placas]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita tu conclusión]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Placas e Petri con agar nutritivo solidificado, correctamente etiquetadas con el grupo y la fecha de realización.
+- **Relación con el resultado principal:** Las placas presentan un medio de color amarilento y aspecto uniforme. El etiquetado permite identificar las muestras y realizar un seguimiento posterior. Sin embargo, es necesario comprobar que no haya contaminación durante la incubación.
+- **Autoría y origen:** Ejecución propia.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
