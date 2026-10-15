@@ -146,7 +146,7 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 |---|---|
 | Cálculos (si procede) |Según la fórmula: **masa de polvo (g) = dosificación indicada (g/L) × 0,125 L**, calculamos la masa de agar nutritivo que pesaremos posteriormente para realizar el medio de cultivo. La dosificación indicada es de 23 gramos por litro, este dato lo cogeremos del bote de agar nutritivo, y el resultado de la masa de polvo es de 2,875g, que redondeamos a 2,88g porque la balanza no da el resultado con tres decimales.
 | Configuración de equipos (si procede) | Hemos usado una balanza portátil de la marca Metria, el calentamiento del agua destilada hemos utilizado un microondas de la marca Bluesky y para autoclavar el medio de cultivo hemos usado un autoclave de la marca Presoclave 3 plus, con el programa 4.|
-| Características del producto o resultado final | [Describe volumen preparado (objetivo: 125 mL), placas obtenidas (referencia: unas seis), aspecto, gelificación, identificación, origen de datos y controles pendientes.] |
+| Características del producto o resultado final | Hemos obtenido 125 ml del medio de cultivo para 6 placas de cultivo. Tiene un color amarillento y la cantidad de medio de cultivo es escaso para las 6 placas. Hay que esperar para que se enfríe y gelifique y entonces ya estaría listo para la siembra |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
