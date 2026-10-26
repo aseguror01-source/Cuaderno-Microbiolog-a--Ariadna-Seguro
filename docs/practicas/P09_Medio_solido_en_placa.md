@@ -241,12 +241,12 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Equipo. |
 | Medio, fórmula, volumen y número de placas | Agar nutritivo comercial; Laboratorio Conda S.A; 125 mL objetivo; 6 placas |
 | Componentes, lotes y caducidades relevantes | Producto en polvo, Laboratorio Conda S.A, lote: 111131, caducado. |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9] |
-| Interpretación | [Resume o enlaza al apartado 12] |
+| Controles | Se comprobaron las características visibles del medio obtenido, teniendo en cuenta su color, cantidad y posterior solidificación. Para confirmar su esterilidad, seria necesario realizar el control correspondiente según el procedimiento establecido en el laboratorio.  |
+| Resultado | Se prepararon 125 ml de medio de cultivo solido a partir de 2,88 g de agar nutritivo en polvo, utilizando una dosificación de 23 g/L. El medio presentó un color amarillento y una cantidad aproximada suficiente para preparar seis placas de cultivo. Se dejó enfriar para permitir su sodificación antes de utilizarlo para la siembra  |
+| Interpretación | El medio sólido preparado está destinado al cultivo de microorganismos y permite observar el crecimiento de colonias una vez realizada la siembra. El color amarillento y la solidificación son características compatibles con el aspecto esperado del agar nutritivo. No obstante, para considerar el medio apto para su utilización es necesario confirmar que cumple los requisitos de calidad y esterilidad. |
 | Incidencias y acciones correctoras | No se ha detectado ninguna incidencia. |
-| Ruta de residuos y conservación | [Según PNT local; completa modalidad y ubicación, sin inferir condiciones] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos y conservación | Los residuos generados se eliminarán siguiendo el procedimiento normalizado de trabajo (PNT) del laboratorio. Las placas preparadas deberán identificarse y conservarse en las condiciones establecidas para el medio de cultivo, siempre que se haya comprobado su idoneidad. |
+| Estado de entrega | Pendiente de revisión. |
 
 ---
 
