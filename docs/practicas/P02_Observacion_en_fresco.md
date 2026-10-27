@@ -271,7 +271,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
+| Incidencias y acciones correctoras | Observé presencia de burbujas pero limpié el portaobjetos y eche de nuevo la gota. |
 | Ruta de residuos aplicada | Desinfección de material reutilizable con solución desinfectante y eliminación de residuos biologicos según el protocolo del laboratorio. |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
