@@ -134,7 +134,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 - **Pareja de trabajo, si procede:** Trabajo individual.
 - **Rol o tarea principal que realizaste:** Práctica completa.
 - **Modalidad realmente realizada:** Muestra ambiental autorizada.
-- **Código o descripción de la muestra/material docente:** [Completa sin incluir datos personales o clínicos]
+- **Código o descripción de la muestra/material docente:** Tubo Falcon 50 ml; Agua recogida del pantano San Roque, Guareña, Badajoz.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
