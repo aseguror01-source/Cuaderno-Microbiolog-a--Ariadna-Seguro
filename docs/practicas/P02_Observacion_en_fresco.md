@@ -142,11 +142,11 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad segura de la muestra | [Completa] |
-| Estado del portaobjetos y cubreobjetos | [Completa] |
-| Material y equipo efectivamente utilizados | [Completa] |
-| Aumento(s) utilizado(s) | [Completa] |
-| Medidas de seguridad aplicadas | [Completa] |
+| Autorización o modalidad segura de la muestra | Muestra de agua de un pantano natural recolectada en un tubo Falcon esteril bajo pautas de bioseguridad de nivel 1. |
+| Estado del portaobjetos y cubreobjetos | Portaobjetos y cubreobjetos limpios, desengrasado s, sin ralladuras ni fisuras. |
+| Material y equipo efectivamente utilizados | Microscopio óptico, pipetas Pasteur, portaobjetos, cubreobjetos y muestra. |
+| Aumento(s) utilizado(s) | 4x, 10x y 40x |
+| Medidas de seguridad aplicadas | Uso de bata en el laboratorio, guantes y desinfeccion de la superficie de trabajo al finalizar. |
 
 ### 8.2 Hipótesis u observación inicial
 
