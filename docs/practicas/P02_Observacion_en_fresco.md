@@ -224,7 +224,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Presencia de burbujas de aire grandes bajo el cubreobjetos que dificultaban la visualización en algunos campos ópticos. | Colocación brusca o incorrecta del cubreobjetos sobre la gota de muestra. | Retirar el cubreobjetos, limpiar el portaobjetos y colocar una nueva gota inclinando el cubreobjetos a 45 grados antes de dejarlo caer suavemente para desplazar el aire. | Sí inicialmente en la zona afectada, pero tras aplicar la medida correctora se solventó por completo sin alterar la validez de la práctica. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
