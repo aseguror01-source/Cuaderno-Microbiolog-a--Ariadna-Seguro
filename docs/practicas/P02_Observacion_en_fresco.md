@@ -152,7 +152,7 @@ El guion de práctica aportado por el profesorado, *P1_Observación de agua esta
 
 Antes de observar, indica qué esperas encontrar o qué características crees que podrían ser relevantes para la muestra. Si trabajaste con material docente o un vídeo, formula la hipótesis a partir de la información disponible.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Al tratarse de una muestra de agua de pantano estancada, se espera encontrar una gran diversidad de microorganismos eucariotas unicelulares y pluricelulares (como protozoos ciliados, flagelados, algas microscópicas, rotíferos y nematodos), así como materia orgánica en suspensión y partículas coloidales.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
