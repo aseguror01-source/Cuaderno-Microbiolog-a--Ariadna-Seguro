@@ -244,7 +244,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué decisión durante la preparación influyó más en la calidad de la observación microscópica y cómo comprobaste su efecto?
 
-   [Respuesta del alumnado]
+   El volumen adecuado de la gota y la técnica correcta al colocar el cubreobjetos para evitar exceso de líquido y burbujas. Se comprobó verificando con el objetivo de 40x que el campo de visión era nítido y sin interferencias ópticas.
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
@@ -256,23 +256,23 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
-   [Respuesta del alumnado]
+   Utilizar selladores de bordes para evitar la rápida evaporación y prolongar el tiempo útil de la preparación. Este cuidado en la manipulación y el control del volumen de muestra se aplicará directamente en la realización de frotis para tinciones diferenciales (como la tinción de Gram).
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 24/09/2026 |
 | UD / RA / CE | `UD2 / RA02 / CE02.a, CE02.c, CE02.f, CE02.g` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de la muestra o evidencia | [Completa] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Agrupamiento | Individual. |
+| Modalidad y origen de la muestra o evidencia | Muestra biológica natural (agua de pantano) |
+| Materiales o lotes relevantes | Portaobjetos, cubreobjetos, pipeta Pasteur, microscopio óptico. |
 | Controles | [Resume o enlaza al apartado 9.1] |
 | Resultado | [Resume o enlaza al apartado 9.3] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa] |
+| Ruta de residuos aplicada | Desinfección de material reutilizable con solución desinfectante y eliminación de residuos biologicos según el protocolo del laboratorio. |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
