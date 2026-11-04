@@ -215,7 +215,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Fecha de ejecución / lectura | [Completa] |
 | UD / RA / CE | `UD3 / RA04 / CE04.a–CE04.e` |
 | Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen del material o evidencia | [Completa] |
+| Modalidad y origen del material o evidencia | Práctica Real presencial. |
 | Placa, medio y referencia autorizada | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Resume o enlaza al apartado 9.1] |
