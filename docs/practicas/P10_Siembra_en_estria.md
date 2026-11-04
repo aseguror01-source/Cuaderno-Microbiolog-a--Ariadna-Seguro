@@ -1,4 +1,4 @@
-**---
+---
 title: "P10 — Siembra en estría simple o continua"
 practice_id: P10
 unit: "UD3 — Bacteriología: técnicas de cultivo, aislamiento y recuento"
@@ -231,4 +231,4 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 - LaDonaBacteria. [«Práctica 6: Técnicas de siembra»](https://ladonabacteriablog.wordpress.com/2016/11/17/practica-6-tecnicas-de-siembra/), apartado «Siembra en estrías continuas o estrías simples». Consulta: 3 de noviembre de 2026.
 - P08 — *Recuperación de liofilizados*, ficha del cuaderno de Microbiología Clínica; fuente del cultivo líquido y de su trazabilidad.
 
----**
+---
