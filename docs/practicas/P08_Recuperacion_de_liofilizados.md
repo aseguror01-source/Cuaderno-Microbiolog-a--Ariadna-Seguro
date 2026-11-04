@@ -226,7 +226,7 @@ Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los regist
 
 ¿En qué medida el procedimiento seguido y el resultado obtenido permitieron alcanzar el objetivo de recuperar la cepa en BHI líquido? Si aplicaste B, valora además si el remanente puede considerarse una reserva fiable. Justifica ambas valoraciones.
 
-[Escribe aquí tu conclusión.]
+El procedimiento realizado ha permitido recuperar la cepa liofilizada y comprobar que mantiene su viabilidad, ya que se ha observado crecimiento en el medio BHI líquido. Sin embargo, el crecimiento ha sido escaso, con pocas partículas visibles, lo que indica que la recuperación no ha sido muy abundante. A pesar de ello, se puede considerar que la recuperación ha sido positiva, puesto que se ha conseguido reactivar parte de los microorganismos. Por tanto, se ha alcanzado el objetivo principal de la práctica, aunque sería recomendable realizar una nueva incubación o comprobar el crecimiento mediante una siembra en medio sólido para confirmar la recuperación de la cepa.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
