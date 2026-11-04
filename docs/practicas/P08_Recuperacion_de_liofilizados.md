@@ -138,13 +138,16 @@ Enumera los recursos reales: incluye el tubo de BHI de 8 mL de P07 y el material
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | Hemos utilizado gradilla, pinzas, placa de Petri estéril, asa de siembra, rotulador permanente y vasos de precipitado. |
+| Equipos | Los equipos que hemos utilizado en esta práctica son el microscopio, el mechero Bunsen y la incubadora.  |
+| Reactivos/materiales | Hemos usado el medio de cultivo BHI líquido con sus tapones, polvo de las cepas bacterianas, pipeta Pasteur, papel de filtro, alcohol y agua destilada como materiales y reactivos. |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Papel de filtro | Urbanos o asimilables a los urbanos. |
+| Algodón de las cepas. | Biológicos. |
+| Placa de Petri. | Biológicos. |
+| Resto de ampollas con el polvo de las cepas bacterianas. | Biológicos. |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -154,9 +157,9 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Identifica el sistema de contención y la incubadora; anota los parámetros reales y su fuente: ficha de cepa o protocolo local] |
-| Características del producto o resultado final | [Indica la ruta A/B, el crecimiento observado y, para B, cómo quedó el remanente y dónde se almacenó; anota tiempos y límites. No afirmes pureza sin control] |
+| Cálculos (si procede) | No procede. |
+| Configuración de equipos (si procede) | No procede. |
+| Características del producto o resultado final | Se observa el crecimiento de unas pequeñas partículas en el medio y se almacenó en la estufa. Y ha estado en estufa aproximadamente una semana. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -167,7 +170,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 ![Verificación previa y trazabilidad de la cepa, sin datos identificables](../assets/P08/verificacion_y_trazabilidad_01.jpg)
 
 - **Pie de foto:** [Verificación de integridad, identificación y registro, sin mostrar códigos sensibles]
-- **Modalidad de la evidencia:** [Ejecución real / demostración parcial]
+- **Modalidad de la evidencia:** Ejecución real.
 - **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
 
 ### Imagen 2 — Material preparado: BHI de P07
@@ -220,7 +223,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 Interpreta la trazabilidad y el resultado del tubo de BHI a partir de los registros y controles disponibles. Distingue crecimiento observado, viabilidad confirmada y pureza; explica cómo una desviación, ausencia de crecimiento o dato no disponible cambia la decisión profesional.
 
-[Escribe aquí tu interpretación técnica.]
+Se observó un ligero crecimiento en forma de pequeñas partículas dispersas por el medio BHI, lo que indica una posible presencia de microorganismos. Sin embargo, no se puede confirmar su viabilidad ni pureza únicamente mediante la observación, por lo que sería necesario realizar pruebas complementarias.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
