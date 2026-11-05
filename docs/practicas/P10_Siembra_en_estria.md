@@ -173,7 +173,7 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | No se detectó ninguna causa | No se adoptó ninguna medida | NO, ya que no se detectó ninguna incidencia. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
