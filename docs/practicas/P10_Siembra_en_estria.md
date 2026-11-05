@@ -173,7 +173,7 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| No se detectaron incidencias | No se detectó ninguna causa | No se adoptó ninguna medida | NO, ya que no se detectó ninguna incidencia. |
+| No se detectaron incidencias | No se observaron errores durante la preparación del material ni durante la siembra | No se adoptó ninguna medida| NO, ya que no se detectó ninguna incidencia. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
