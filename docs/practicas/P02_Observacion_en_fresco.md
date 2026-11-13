@@ -160,10 +160,10 @@ Al tratarse de una muestra de agua de pantano estancada, se espera encontrar una
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Preparación limpia y sin burbujas que impidan la lectura | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Enfoque e iluminación adecuados | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Campo observado de forma sistemática | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Movimiento diferenciado de corrientes o artefactos | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Preparación limpia y sin burbujas que impidan la lectura | Tras corregir la incidencia inicial, el cubreobjetos asentó de forma uniforme sin burbujas obstructivas | Sí | Permitió enfocar nítidamente a 40X en las zonas de interés sin distorsiones |
+| Enfoque e iluminación adecuados | Iluminación de köhler ajustada con diafragma de campo y condensador regulado para contraste de fase/campo claro | Sí | Ofreció excelente definición de los contornos translúcidos de los microorganimos |
+| Campo observado de forma sistemática | Recorrido en serpentina (de izquierda a derecha y de arriba a abajo) abarcando todo el área bajo el cubreobjetos. | Sí | Aseguró la detección de microorganismos de baja densidad poblacional |
+| Movimiento diferenciado de corrientes o artefactos | No se observaron organismos con movilidad propia; las estructuras detectadas permanecieron completamente estáticas o sujetas únicamente a leve agitación por corrientes. | Sí | Permitió constatar la ausencia de microfauna activa en la zona observada, confirmando la naturaleza estática de los elementos hallados. |
 
 ### 9.2 Registro de hallazgos
 
