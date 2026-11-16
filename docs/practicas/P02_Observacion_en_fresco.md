@@ -267,7 +267,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Modalidad y origen de la muestra o evidencia | Muestra biológica natural (agua de pantano) |
 | Materiales o lotes relevantes | Portaobjetos, cubreobjetos, pipeta Pasteur, microscopio óptico. |
 | Controles | [9.1.Comprobación de calidad de la preparación]https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P02_Observacion_en_fresco.md#91-comprobaci%C3%B3n-de-calidad-de-la-preparaci%C3%B3n |
-| Resultado | [9.3.Resultado principal] |
+| Resultado | [9.3.Resultado principal]https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P02_Observacion_en_fresco.md#93-resultado-principal |
 | Interpretación | [12.Interpretación técnica] |
 | Incidencias y acciones correctoras | Observé presencia de burbujas pero limpié el portaobjetos y eche de nuevo la gota. |
 | Ruta de residuos aplicada | Desinfección de material reutilizable con solución desinfectante y eliminación de residuos biologicos según el protocolo del laboratorio. |
