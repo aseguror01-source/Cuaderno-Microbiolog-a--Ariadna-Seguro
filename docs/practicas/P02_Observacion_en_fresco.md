@@ -169,12 +169,10 @@ Al tratarse de una muestra de agua de pantano estancada, se espera encontrar una
 
 | Hallazgo | Preparación utilizada | Morfología, tamaño relativo y disposición | ¿Se observó movimiento? | Interpretación inicial |
 |---|---|---|---|---|
-| [Hallazgo 1] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 2] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 3] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 4] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 5] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
-| [Hallazgo 6] | [Sin concentración / concentrada] | [Completa] | [Sí / No / Dudoso; explica] | [Completa] |
+| Hallazgo 1 | Sin concentración (directa) | Estructura simétrica de forma estrellada/ circular con proyecciones radiales, aprox. 30-50 µm | No (estático) | Microalga unicelular (Fitoplancton) |
+| Hallazgo 2 | Sin concentración (directa) | Agregado celular con paredes poliédricas delimitadas y aspecto translúcido. | No (estático) | Fragmento de tejidos vegetal / alga pruricelular |
+| Hallazgo 3 | Sin concentración (directa) | Estructura filamentosa alargada y flexible de color oscuro | No (estático) | Fibra vegetal / Artefacto ambiental (fibra de celulosa) |
+| Hallazgo 4 | Concentrada (sedimento) | Partículas amorfas agrupadas de tamaño variable y contornos irregulares | No (inerte) | Detritos orgánicos y limos en suspesión |
 
 ### 9.3 Resultado principal
 
