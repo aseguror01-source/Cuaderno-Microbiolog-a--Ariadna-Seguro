@@ -178,7 +178,7 @@ Al tratarse de una muestra de agua de pantano estancada, se espera encontrar una
 
 Resume los hallazgos más relevantes y especifica qué resultado procede de observación real, preparación segura, imagen docente o vídeo.
 
-[Escribe aquí el resultado principal.]
+A partir de la observación directa y de la muestra concentrada por centrifugación del agua del pantano San Roque (Guareña, Badajoz), no se evidenciaron microorganismos con movilidad propia activa en los campos analizados. Los hallazgos se limitaron a componentes del fitoplancton y elementos inertes, destacando la presencia de diatomeas con estriaciones silíceas, filamentos de algas verdes, esporas vegetales y abundantes detritos orgánicos en suspensión. Esto indica que la muestra analizada correspondía predominantemente a una fase con baja densidad de microfauna móvil o con predominio de productores primarios y materia particulada.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -228,7 +228,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 Interpreta los hallazgos usando las características observadas, los controles de calidad y las evidencias visuales. Distingue con claridad entre una identificación orientativa, una hipótesis y una conclusión que no puede sostenerse con la información disponible. Explica también si el movimiento observado podría deberse a corrientes, vibración o movimiento browniano.
 
-[Escribe aquí tu interpretación técnica.]
+La ausencia total de movimiento autónomo en los elementos observados simplifica la diferenciación entre seres vivos móviles y artefactos, ya que todas las estructuras identificadas (diatomeas, filamentos de algas, esporas y detritos) se mantuvieron fijas en el campo microscópico, salvo por desplazamientos pasivos muy leves debidos a corrientes residuales del líquido o evaporación. Esto demuestra que la muestra carecía de protozoos ciliados o flagelados activos en las gotas examinadas, o bien que dichos organismos se encontraban enquistados debido a las condiciones fisicoquímicas del agua en el momento de la recolecta. Las formas observadas se corresponden con componentes bióticos vegetales (productores) y abióticos inertes, los cuales no requieren movilidad para su identificación morfológica básica.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
