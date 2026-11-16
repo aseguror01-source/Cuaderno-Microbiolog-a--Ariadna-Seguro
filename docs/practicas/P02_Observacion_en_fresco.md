@@ -246,11 +246,11 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 2. **Interpretación:** ¿Qué indicios utilizaste para decidir si el desplazamiento observado era movilidad propia, una corriente o un artefacto? ¿Qué información adicional necesitarías para afirmarlo con mayor seguridad?
 
-   [Respuesta del alumnado]
+   Se utilizó como criterio principal la direccionalidad y autonomía del movimiento: los organismos vivos nadaban en contra o a través de corrientes ficticias, cambiando de trayectoria de forma deliberada (por ejemplo, los ciliados girando sobre su eje o los rotíferos anclados y contrayéndose). Las corrientes del líquido arrastraban a todas las partículas pasivamente en la misma dirección y vector, mientras que el movimiento browniano consistía en una vibración local microscópica sin desplazamiento de avance. Para afirmarlo con mayor seguridad taxonómica, se habrían requerido técnicas de inmovilización temporal (como agentes relajantes inocuos), observación mediante contraste de interferencia diferencial (Nomarski) y claves taxonómicas dicotómicas especializadas.
 
 3. **Conclusiones:** ¿Cuál de tus evidencias —registro, fotografía o esquema— respalda mejor la conclusión principal? Explica también una limitación de esa evidencia.
 
-   [Respuesta del alumnado]
+   El registro sistemático estructurado (tabla de hallazgos) junto con las fotografias 2 y 4 respaldan de forma conjunta la conclusión principal, ya que demuestran la correlación directa entre la diversidad observada y el éxito del método de concentración. Una limitación importante de las fotografías es que son estáticas (bidimensionales), por lo que no logran capturar por completo la movilidad dinámica ni la profundidad tridimensional que el operador aprecia directamente a través de los oculares al manipular el tornillo micrométrico. 
 
 4. **Aprendizaje y transferencia:** ¿Qué mejorarías en una próxima observación en fresco y cómo aplicarías ese aprendizaje a una tinción o a otra técnica microscópica?
 
