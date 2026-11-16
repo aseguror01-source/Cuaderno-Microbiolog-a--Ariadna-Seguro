@@ -234,7 +234,7 @@ La ausencia total de movimiento autónomo en los elementos observados simplifica
 
 Indica si alcanzaste el objetivo de preparar, observar y registrar una muestra en fresco. Explica qué evidencias sostienen tu conclusión y qué limitaciones tuvo la práctica o el material utilizado.
 
-[Escribe aquí tu conclusión.]
+Se han alcanzado los objetivos de la práctica al lograr preparar, enfocar sistemáticamente y registrar una muestra de agua natural en fresco, cumpliendo con los protocolos de bioseguridad. Aunque no se visualizó microfauna con movilidad propia, la práctica ha sido plenamente válida para identificar componentes del fitoplancton (diatomeas y algas filamentosas) y detritos. Las principales limitaciones han estado condicionadas por la propia composición biológica de la muestra ambiental seleccionada, que carecía de organismos móviles activos en las alícuotas tomadas.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
