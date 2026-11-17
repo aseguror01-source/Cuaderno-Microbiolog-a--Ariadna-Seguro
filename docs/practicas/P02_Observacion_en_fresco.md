@@ -220,7 +220,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/05_limpieza_y_residuos.jpg`
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
-- **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
+- **Pie de foto:** Limpieza de la mesa realizada y eliminacion de residuos (como portaobjetos) en su contenedor correspondiente.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
   ![Limpieza del puesto y eliminación de residuos](../assets/P02/limpieza_del_puesto_y_eliminación_de_residuos_05.jpg)
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
