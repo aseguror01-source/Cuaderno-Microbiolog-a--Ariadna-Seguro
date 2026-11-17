@@ -188,8 +188,8 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** Visualización microscópica de la muestra que muestra estructuras microesféricas y una fibra alargada sobre el campo óptico.
-- **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
+- **Pie de foto:** Se observa la recepción del envío por su recipiente secundario cerrado en la zona señalizada, manteniendo la solicitud separada y comprobando el recipiente primario cerrado y su etiqueta legible.
+- **Comprobación técnica asociada:** La recepción es conforme porque el embalaje exterior e interior están íntegros, sin humedad, manchas ni fugas, y la identificación del envase concuerda exactamente con la solicitud. 
 - **Momento del procedimiento:** Inspección exterior del recipiente secundario y primario, comprobación de la etiqueta, integridad y correspondencia con la solicitud.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
@@ -204,16 +204,16 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** Microfotografías ópticas del análisis de elementos presentes en la muestra, detallando fibras y pequeños agregados cristalinos.
-- **Medida crítica demostrada:** [Explica qué riesgo se controla]
+- **Pie de foto:** Se observa el vertido controlado del simulante líquido dentro de la bandeja de contención, la señalización de la zona y la aplicación suave de material absorbente y desinfectante aprobado desde el perímetro hacia el centro.
+- **Medida crítica demostrada:** Controla el riesgo de exposición directa, salpicaduras, generación de aerosoles y contaminación secundaria de superficies.
 - **Momento del procedimiento:** Simulación controlada del derrame del simulante dentro de la bandeja, interrupción de la actividad y valoración visual de la extensión desde una posición segura.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** Eliminación correcta del vertido.
-- **Ruta autorizada:** [Completa según el protocolo del centro]
+- **Pie de foto:** Eliminación correcta del vertido. Se observa la recogida del material absorbente y residuos con pinzas o útiles (sin contacto directo) y su depósito en la bolsa o recipiente destinado a residuos.
+- **Ruta autorizada:** Segregación y eliminación a través del circuito de residuos autorizado y comunicado por el centro (reservando contenedores rígidos únicamente si hay punzantes simulados).
 - **Relación con la trazabilidad:** Recogida del absorbente con útiles, descontaminación de la zona, retirada segura del EPI, higiene de manos y segregación de residuos en los contenedores autorizados.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
