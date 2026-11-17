@@ -220,19 +220,19 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias críticas durante la simulación de recepción | Manipulación metódica y seguimiento estricto del PNT | Verificación previa de cierres y etiquetas antes de abrir el envase secundario | No, el proceso se desarrolló con total normalidad. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta los resultados de la práctica. Relaciona el análisis de la zona, la recepción de la muestra, el EPI seleccionado, la respuesta al derrame y el procesamiento de residuos. Justifica tus decisiones con el PNT del centro o, si no existe, con el manual de la OMS enlazado en el apartado 4.
 
-[Escribe aquí tu interpretación técnica.]
+La práctica permitió comprobar que la bioseguridad en el laboratorio no se limita a normas teóricas, sino que exige un procedimiento secuencial riguroso. El análisis previo de la zona y la selección correcta de los EPI (como se observa en las imágenes de manipulación con guantes y bata) son esenciales para prevenir exposiciones accidentales. La recepción de la muestra requiere verificar la correspondencia documental y la integridad del embalaje secundario y primario antes de proceder a su análisis al microscopio o centrifugación. Asimismo, ante situaciones imprevistas como un derrame, la actuación protocolizada *detener la actividad, contener, aplicar desinfectante de perimetraje a centro y gestionar los residuos de forma segregada* garantiza la seguridad biológica y ambiental del laboratorio.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo de la práctica y qué evidencias concretas lo demuestran. Menciona también alguna limitación de la simulación o de la actividad realizada.
 
-[Escribe aquí tu conclusión.]
+Se alcanzó con éxito el objetivo de la práctica, evidenciado mediante el registro correcto de la trazabilidad de la muestra líquida simulada, la correcta ejecución de los procedimientos de manipulación y el control de derrames. La principal limitación consistió en el uso de un simulante no biológico y material limpio, lo cual, aunque idóneo para la inducción formativa y el desarrollo seguro de las competencias iniciales, no reproduce totalmente la carga de riesgo biológico real de muestras clínicas complejas, las cuales requerirían niveles superiores de contención.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
