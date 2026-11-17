@@ -150,7 +150,7 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 |---|---|---|
 | Bata u otra prenda de protección | Sí | Para evitar el contacto de posibles salpicaduras accidentales con la opa de calle y la piel de los brazos y torso |
 | Guantes | Sí | Guantes de nitrilo azules para crear una barrera directa frente al simulante líquido y proteger durante el manejo de material y recipientes. |
-| Protección ocular o facial | No aplicaba | a evaluación del riesgo simulado determinó bajo riesgos de proyección directa a ojos, manteniendo la precaución en a manipulación |
+| Protección ocular o facial | No aplicaba | La evaluación del riesgo simulado determinó bajo riesgos de proyección directa a ojos, manteniendo la precaución en a manipulación |
 | Higiene de manos | Sí, antes y después de realizar la practica | Realizada estrictamente antes de colocar los EPI y al finalizar la práctica tras retirar los guantes |
 | Otra barrera o medida | Sí | Uso de bandejas de contención y superficie de trabajo limpia y despejada para delimitar el área de riesgo |
 
