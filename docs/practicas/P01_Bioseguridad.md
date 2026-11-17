@@ -125,8 +125,8 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Pareja o equipo, si procede:** Trabajo individual
 - **Rol o tarea principal que realizaste:** Práctica completa
 - **Modalidad realmente realizada:** Simulación con material limpio
-- **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
-- **Código o identificación de la muestra:** [Completa sin datos personales]
+- **Tipo de muestra o simulante utilizado:** Muestra ambiental autorizada.
+- **Código o identificación de la muestra:** Tubo Falcon 50 ml; Agua recogida del pantano San Roque, Guareña, Badajoz.
 
 ## 7. Preparación del puesto y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
