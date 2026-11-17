@@ -190,7 +190,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
 - **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
-  ![Preparación húmeda sin concentración](../assets/P02/preparacion_humeda_sin_concentracion_01.jpg)
+  ![Preparación húmeda sin concentración](../assets/P02/preparación_húmeda_sin_concentración_01.jpg)
 
 ### Imagen 2 — Campo microscópico de la preparación sin concentración
 
@@ -198,6 +198,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+  ![Campo microscópico de la preparación sin concentración](../assets/P02/campo_microscópico_de_la_preparación_sin_concentración_02.jpg)
 
 ### Imagen 3 — Centrifugación de la muestra
 
