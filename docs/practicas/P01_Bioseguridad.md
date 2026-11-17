@@ -259,15 +259,15 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 20/10/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Materiales o lotes relevantes | [Completa o escribe “No aplicaba”] |
+| Agrupamiento | Individual |
+| Materiales o lotes relevantes | Simulante líquido no biológico, material de vidrio/plástico limpio. |
 | Controles | [Resume o enlaza al apartado 9] |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
-| Ruta de residuos aplicada | [Completa]
+| Ruta de residuos aplicada | Contenedores específicos de residuos simulados del laboratorio del centro |
 | Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
 
 ---
