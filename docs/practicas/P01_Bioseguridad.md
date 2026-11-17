@@ -124,7 +124,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 - **Grupo:** 2 LCB
 - **Pareja o equipo, si procede:** Trabajo individual
 - **Rol o tarea principal que realizaste:** Práctica completa
-- **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
+- **Modalidad realmente realizada:** Simulación con material limpio
 - **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
 - **Código o identificación de la muestra:** [Completa sin datos personales]
 
