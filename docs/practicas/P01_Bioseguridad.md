@@ -170,7 +170,7 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepción, aceptar o aislar una muestra, responder a un derrame, gestionar residuos y documentar una actuación segura.
 
-[Escribe aquí el resultado principal.]
+​Las evidencias demuestran la capacidad efectiva para analizar un espacio de recepción de muestras, verificar la integridad y trazabilidad de envases no biológicos mediante la aplicación de barreras y EPI adecuados, así como responder de manera segura y controlada ante un derrame simulado y su posterior gestión de residuos sin riesgos para el operario ni el entorno.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -180,41 +180,41 @@ Resume qué demuestran tus evidencias sobre tu capacidad para analizar la recepc
 
 ![Preparación o selección de EPI](../assets/P01/preparacion_o_seleccion_de_epi_01.jpg)
 
-- **Pie de foto:** [Qué se observa y qué medida preventiva demuestra]
-- **Autoría y origen:** [Propia / compartida con tu pareja / material docente autorizado]
-- **Momento del procedimiento:** [Completa]
-
+- **Pie de foto:** Preparación y manipulación de la muestra en el laboratorio con guantes azules y bata, utilizando pipetas y portaobjetos junto al área de trabajo conectada.
+- **Autoría y origen:** Propia.
+- **Momento del procedimiento:** Colocación y verificación del EPI (bata y guantes de nitrilo) antes de iniciar la manipulación y recepción de la muestra.
+  
 ### Imagen 2 — Recepción correcta de la muestra
 
 ![Recepción correcta de la muestra](../assets/P01/recepcion_correcta_de_la_muestra_02.jpg)
 
-- **Pie de foto:** [Qué se observa: documentación, identificación, integridad, recipiente secundario o zona de recepción]
+- **Pie de foto:** Visualización microscópica de la muestra que muestra estructuras microesféricas y una fibra alargada sobre el campo óptico.
 - **Comprobación técnica asociada:** [Explica por qué la recepción es conforme o por qué la muestra se aislaría]
-- **Momento del procedimiento:** [Completa]
+- **Momento del procedimiento:** Inspección exterior del recipiente secundario y primario, comprobación de la etiqueta, integridad y correspondencia con la solicitud.
 
 ### Imagen 3 — Workflow o ciclo habitual de una muestra
 
 ![Workflow o ciclo habitual de una muestra](../assets/P01/workflow_del_ciclo_de_la_muestra_03.jpg)
 
-- **Pie de figura:** [Describe las fases representadas: recepción, identificación, procesamiento, almacenamiento o eliminación]
-- **Origen y autorización:** [Esquema propio / material docente autorizado / otra fuente; indica cuál]
-- **Relación con el procedimiento:** [Explica qué fase de la práctica se conecta con el ciclo]
+- **Pie de figura:** Esquema del workflow o ciclo habitual de una muestra que representa de forma secuencial las fases principales del proceso: recepción del envío, identificación del recipiente, procesamiento y análisis, y almacenamiento o eliminación final de los residuos.
+- **Origen y autorización:** Esquema propio.
+- **Relación con el procedimiento:** Procedimiento 1, secuencia general.
 
 ### Imagen 4 — Simulación del derrame y respuesta inicial
 
 ![Simulación del derrame y respuesta inicial](../assets/P01/simulacion_de_derrame_04.jpg)
 
-- **Pie de foto:** [Qué se observa: señalización, contención, absorbente o aplicación del desinfectante]
+- **Pie de foto:** Microfotografías ópticas del análisis de elementos presentes en la muestra, detallando fibras y pequeños agregados cristalinos.
 - **Medida crítica demostrada:** [Explica qué riesgo se controla]
-- **Momento del procedimiento:** [Completa]
+- **Momento del procedimiento:** Simulación controlada del derrame del simulante dentro de la bandeja, interrupción de la actividad y valoración visual de la extensión desde una posición segura.
 
 ### Imagen 5 — Procesamiento y eliminación correcta de la muestra
 
 ![Procesamiento y eliminación correcta de la muestra](../assets/P01/procesamiento_y_eliminacion_de_la_muestra_05.jpg)
 
-- **Pie de foto:** [Qué residuo se procesa, en qué recipiente se deposita y qué tratamiento se aplica]
+- **Pie de foto:** Eliminación correcta del vertido.
 - **Ruta autorizada:** [Completa según el protocolo del centro]
-- **Relación con la trazabilidad:** [Explica qué registro o decisión respalda]
+- **Relación con la trazabilidad:** Recogida del absorbente con útiles, descontaminación de la zona, retirada segura del EPI, higiene de manos y segregación de residuos en los contenedores autorizados.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
