@@ -160,11 +160,11 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Control o criterio | Evidencia observada | ¿Resultado válido? | Justificación |
 |---|---|---|---|
-| Zona y señalización analizadas | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Recepción e identificación trazables | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Derrame contenido y descontaminado | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Residuos procesados y eliminados correctamente | [Completa] | [Sí / No / Parcialmente] | [Completa] |
-| Registro y comunicación final | [Completa] | [Sí / No / Parcialmente] | [Completa] |
+| Zona y señalización analizadas | Puesto señalizado, ordenado y con disponibilidad de bandejas y desinfectantes | Sí | Se verificaron las condiciones de seguridad antes de iniciar la manipulación del simulante |
+| Recepción e identificación trazables | Recipiente secundario íntegro, etiqueta legible y concordancia con la solicitud simulada | Sí | Permitió aceptar la muestra de forma segura registrando los datos necesarios sin vulnerar la privacidad |
+| Derrame contenido y descontaminado | Simulado de forma controlada dentro de la bandeja, uso de absorbente y desinfectante aprobad | Sí | Se evitó la expansión del líquido y se aplicaron los protocolos de limpieza establecidos |
+| Residuos procesados y eliminados correctamente | Segregación de materiales utilizados en los contenedores designados por el centro | Sí | Cumplimiento estricto de la ruta autorizada de eliminación de residuos |
+| Registro y comunicación final | Cuaderno de prácticas completado con los tiempos, decisiones e incidencias simuladas | Sí | Se garantizó la trazabilidad documental completa de todo el ejercicio |
 
 ### 9.2 Resultado principal de la práctica
 
