@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Individual |
 | Materiales o lotes relevantes | Simulante líquido no biológico, material de vidrio/plástico limpio. |
 | Controles | [9.Controles y resultados](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#9-controles-y-resultados-alumnado--rellenable--durante) |
-| Resultado | [Resume o enlaza al apartado 9.2] |
+| Resultado | [9.2.Resultado principal de la práctica](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#9-controles-y-resultados-alumnado--rellenable--durante) |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
 | Ruta de residuos aplicada | Contenedores específicos de residuos simulados del laboratorio del centro |
