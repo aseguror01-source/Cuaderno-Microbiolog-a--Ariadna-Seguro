@@ -240,19 +240,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué comprobación de la recepción o del derrame consideraste más crítica para evitar una exposición o contaminación, y cómo verificaste que se realizó correctamente?
 
-   [Respuesta del alumnado]
+   La comprobación más crítica en la recepción fue la inspección visual del recipiente primario y secundario en busca de fugas o humedad antes de su apertura. Se verificó comprobando que el cierre era estanco y que la etiqueta coincidía exactamente con la solicitud de ensayo, evitando así manipular envases comprometidos.
 
 2. **Interpretación:** Ante el derrame simulado, ¿qué indicios utilizaste para decidir la contención, la descontaminación y el circuito de residuos? Explica por qué descartaste otras opciones.
 
-   [Respuesta del alumnado]
+   Se utilizó el indicio de volumen moderado y contenido no biológico confinado en la bandeja estable. Esto permitió aplicar material absorbente sin presionar y desinfectante desde los bordes hacia el centro, descartando opciones de evacuación general que solo se reservan para grandes volúmenes o aerosoles de alto riesgo.
 
 3. **Conclusiones:** ¿Qué evidencia demuestra con mayor claridad que la muestra fue recibida, procesada o eliminada de forma segura y trazable? Justifica la elección.
 
-   [Respuesta del alumnado]
+   El registro completo de trazabilidad documental combinado con las evidencias visuales del correcto etiquetado, el uso de recipientes secundarios y la segregación final en los contenedores autorizados del centro.
 
 4. **Aprendizaje y transferencia:** ¿Qué hábito concreto aplicarás en las próximas prácticas de microbiología y cómo ayudará a prevenir errores o riesgos reales?
 
-   [Respuesta del alumnado]
+   El hábito de realizar siempre una inspección externa minuciosa de los envases y mantener el espacio de trabajo completamente despejado antes de abrir cualquier muestra, lo que reducirá drásticamente el riesgo de salpicaduras y contaminación cruzada.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
