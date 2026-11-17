@@ -134,7 +134,7 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 Describe brevemente cómo estaba organizado el puesto, qué señalización observaste y qué elementos consideraste relevantes para trabajar con seguridad.
 
-[Escribe aquí tu observación inicial.]
+​El puesto de trabajo se encontraba limpio, despejado y dotado de iluminación adecuada. Se visualizó una zona de recepción señalizada, tomas de corriente protegidas, bandejas de contención y elementos de protección como pulverizadores con desinfectante y material estéril. La documentación se mantuvo separada de la zona directa de manipulación de líquidos.
 
 ### 7.2 Riesgos identificados
 
