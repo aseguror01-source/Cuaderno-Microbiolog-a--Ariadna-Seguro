@@ -140,19 +140,19 @@ Describe brevemente cómo estaba organizado el puesto, qué señalización obser
 
 | Riesgo o fuente de contaminación | Consecuencia posible | Medida preventiva seleccionada |
 |---|---|---|
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
-| [Completa] | [Completa] | [Completa] |
+| Aceptación de envases con fugas o mal cerrados | Exposición cutánea, salpicaduras y contaminación de superficies de trabajo | Inspección visual previa sin abrir e introducción en sobre envase hermético si hay defectos |
+| Generación de aerosoles o salpicadura durante la manipulación o derrame simulado | Inhalación o contacto con agentes simulados o superficies circundantes | Uso de bata, guantes, manipulación cuidadosa sin movimientos bruscos y eso de bandejas de contención |
+| Segregación incorrecta de residuos generados en el proceso | Contaminación cruzada y gestión inadecuada de desechos del laboratorio | Respetar estrictamente el circuito de residuos comunicado por el centro y utilizar contenedores diferenciados. |
 
 ### 7.3 EPI y barreras seleccionados
 
 | Elemento | ¿Se utilizó? | Justificación técnica |
 |---|---|---|
-| Bata u otra prenda de protección | [Sí / No / No aplicaba] | [Completa] |
-| Guantes | [Sí / No / No aplicaba] | [Completa] |
-| Protección ocular o facial | [Sí / No / No aplicaba] | [Completa] |
-| Higiene de manos | [Describe cuándo y cómo] | [Completa] |
-| Otra barrera o medida | [Completa] | [Completa] |
+| Bata u otra prenda de protección | Sí | Para evitar el contacto de posibles salpicaduras accidentales con la opa de calle y la piel de los brazos y torso |
+| Guantes | Sí | Guantes de nitrilo azules para crear una barrera directa frente al simulante líquido y proteger durante el manejo de material y recipientes. |
+| Protección ocular o facial | No aplicaba | a evaluación del riesgo simulado determinó bajo riesgos de proyección directa a ojos, manteniendo la precaución en a manipulación |
+| Higiene de manos | Sí, antes y después de realizar la practica | Realizada estrictamente antes de colocar los EPI y al finalizar la práctica tras retirar los guantes |
+| Otra barrera o medida | Sí | Uso de bandejas de contención y superficie de trabajo limpia y despejada para delimitar el área de riesgo |
 
 ## 9. Controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
