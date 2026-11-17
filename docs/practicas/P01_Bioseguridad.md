@@ -264,8 +264,8 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Agrupamiento | Individual |
 | Materiales o lotes relevantes | Simulante líquido no biológico, material de vidrio/plástico limpio. |
 | Controles | [9.Controles y resultados](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#9-controles-y-resultados-alumnado--rellenable--durante) |
-| Resultado | [9.2.Resultado principal de la práctica]([https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#9-controles-y-resultados-alumnado--rellenable--durante](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#92-resultado-principal-de-la-pr%C3%A1ctica) |
-| Interpretación | [12.Interpretación técnica]([https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#9-controles-y-resultados-alumnado--rellenable--durante](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
+| Resultado | [9.2.Resultado principal de la práctica](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#92-resultado-principal-de-la-pr%C3%A1ctica) |
+| Interpretación | [12.Interpretación técnica](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#12-interpretaci%C3%B3n-t%C3%A9cnica-alumnado--rellenable--despu%C3%A9s) |
 | Incidencias y acciones correctoras | [11.Incidencias, errores y medidas correctoras](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P01_Bioseguridad.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos aplicada | Contenedores específicos de residuos simulados del laboratorio del centro |
 | Estado de entrega | Pendiente de revisión |
