@@ -196,7 +196,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/02_campo_sin_concentracion.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación directa con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento utilizado; evita una identificación no confirmada.]
+- **Pie de foto:** Vista al microscopio dividida en dos campos circulares: en el superior se observa una microestructura estrellada, y en el inferior se aprecia una fibra alargada y oscura sobre el fondo claro de la muestra.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
   ![Campo microscópico de la preparación sin concentración](../assets/P02/campo_microscópico_de_la_preparación_sin_concentración_02.jpg)
 
@@ -204,7 +204,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/03_centrifugacion.jpg`
 - **Texto alternativo:** Tubos cerrados y equilibrados en la centrífuga durante la preparación concentrada autorizada.
-- **Pie de foto:** [Indica el equipo y los parámetros validados por el centro; fotografía solo si está permitido y sin datos identificativos.]
+- **Pie de foto:** Tubos Falcon en centrífuga listos ara ser centrifugados.
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
   ![Centrifugación de la muestra](../assets/P02/centrifugación_de_la_muestra_03.jpg)
 
@@ -212,7 +212,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/04_campo_concentrado.jpg`
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
-- **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
+- **Pie de foto:** Microfotografías ópticas divididas en dos campos circulares tomadas durante el análisis: la sección superior muestra una fibra fina y elementos dispersos, mientras que la inferior revela pequeña estructuras cristalinas o agregados celulares
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
   ![Campo microscópico de la preparación concentrada](../assets/P02/campo_microscópico_de_la_preparación_concentrada_04.jpg)
 
