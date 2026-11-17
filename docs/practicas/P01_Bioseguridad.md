@@ -119,11 +119,11 @@ Esta práctica convierte la bioseguridad en un desempeño previo obligatorio, no
 
 ## 6. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
+- **Nombre y apellidos:** Ariadna Seguro Ruiz
+- **Fecha real de realización:** 28/10/2026
+- **Grupo:** 2 LCB
+- **Pareja o equipo, si procede:** Trabajo individual
+- **Rol o tarea principal que realizaste:** Práctica completa
 - **Modalidad realmente realizada:** [Simulación con material limpio / material real con autorización / actividad documental / otra; descríbela]
 - **Tipo de muestra o simulante utilizado:** [Describe el material seguro; no incluyas datos personales ni identificadores clínicos]
 - **Código o identificación de la muestra:** [Completa sin datos personales]
