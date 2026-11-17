@@ -214,6 +214,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 - **Texto alternativo:** Campo microscópico de la preparación obtenida tras centrifugación con un hallazgo señalado.
 - **Pie de foto:** [Describe el hallazgo y registra el aumento; indica que procede de la preparación concentrada.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+  ![Campo microscópico de la preparación concentrada](../assets/P02/campo_microscópico_de_la_preparación_concentrada_04.jpg)
 
 ### Imagen 5 — Limpieza del puesto y eliminación de residuos
 
@@ -221,6 +222,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 - **Texto alternativo:** Puesto de trabajo limpio y residuos de la práctica separados según la ruta del centro.
 - **Pie de foto:** [Describe la limpieza realizada y la ruta de eliminación aplicada; no fotografíes datos personales.]
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
+  ![Limpieza del puesto y eliminación de residuos](../assets/P02/limpieza_del_puesto_y_eliminación_de_residuos_05.jpg)
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora aplicada o propuesta | ¿Afectó al resultado? |
