@@ -188,7 +188,7 @@ Añade las imágenes propias después de realizar la práctica y en el orden cro
 
 - **Archivo previsto:** `../assets/P02/01_preparacion_sin_concentracion.jpg`
 - **Texto alternativo:** Preparación húmeda directa de la muestra de agua estancada sobre el portaobjetos.
-- **Pie de foto:** [Describe el depósito de la gota y la colocación del cubreobjetos; indica el origen autorizado de la muestra.]
+- **Pie de foto:** Preparación de muestras en el laboratorio de practicas. Técnico manipula una ppipeta y un portaobjetos sobre la mesa de trabajo, junto a un tubo Falcon etiquetado y un microscopio
 - **Imagen del alumnado:** [Añadir aquí después de la práctica.]
   ![Preparación húmeda sin concentración](../assets/P02/preparación_húmeda_sin_concentración_01.jpg)
 
