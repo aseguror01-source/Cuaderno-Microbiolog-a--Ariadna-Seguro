@@ -263,7 +263,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | UD / RA / CE | `UD1 / RA01 / CE01.a–CE01.i` |
 | Agrupamiento | Individual |
 | Materiales o lotes relevantes | Simulante líquido no biológico, material de vidrio/plástico limpio. |
-| Controles | [Resume o enlaza al apartado 9] |
+| Controles | [9.3.Resultado principal](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P02_Observacion_en_fresco.md#93-resultado-principal) |
 | Resultado | [Resume o enlaza al apartado 9.2] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones correctoras | [Resume o enlaza al apartado 11] |
