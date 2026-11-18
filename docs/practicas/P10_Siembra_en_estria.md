@@ -193,19 +193,19 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 **1. Procedimiento.** ¿Por qué es crítico el tiempo de enfriamiento del asa de siembra tras esterilizarla a la llama, y cómo te aseguraste de hacerlo correctamente sin comprometer la zona de esterilidad?
 
-[Respuesta del alumnado]
+ El tiempo de enfriamiento del asa después de esterilizarla en la llama es fundamental porque, si se utiliza cuando todavía está caliente, puede quemar a los microorganismos del inóculo e impedir que crezcan. Se debe esperar unos segundos sin tocar ninguna superficie ni acercar el asa a materiales contaminados, manteniéndola dentro de la zona de trabajo estéril.
 
 **2. Interpretación.** Si aparecen colonias con morfologías claramente distintas a lo largo de las estrías, ¿qué evidencia visual te ayudaría a discernir si el cultivo líquido original era mixto o si hubo una contaminación ambiental durante la apertura de la placa?
 
-[Respuesta del alumnado]
+Si aparecen colonias con morfologías diferentes, por ejemplo con distinto tamaño, color, forma o textura, podría indicar que el cultivo líquido original tenía microorganismos. Sin embargo, si las colonias aparecen de forma individual y salteadas, especialmente en zonas lejos de las estrías, podría sospecharse una contaminación ambiental durante la apertura de la placa. Para diferenciarlos sería necesario comparar los resultados con los controles de calidad.
 
 **3. Conclusiones.** Basándote en la presencia, cantidad y separación de las colonias aisladas, ¿qué puedes concluir de forma definitiva sobre la viabilidad y la concentración del cultivo líquido de partida?
 
-[Respuesta del alumnado]
+Teniendo en cuenta que el cultivo líquido presentaba una ligera turbidez, pero no se observaban colonias aisladas, la turbidez podía indicar la presencia de microorganismos en suspensión. Si tras realizar la siembra aparecen colonias aisladas, se confirmaría que existían microorganismos viables capaces de crecer en el medio sólido. Sin embargo, la cantidad de colonias obtenidas no permite determinar la concentración inicial del cultivo.
 
 **4. Aprendizaje y transferencia.** Si tuvieras que redactar el Procedimiento Normalizado de Trabajo (PNT) para enseñar esta siembra continua a un técnico recién contratado, ¿qué «vicio» procedimental o error de postura destacarías como el más urgente de prevenir desde el primer intento?
 
-[Respuesta del alumnado]
+Uno de los errores más importantes que destacaría sería hacer demasiada presión con el asa sobre el medio de cultivo. Esto puede provocar rotura del agar, dañar el medio de cultivo y dificultar el aislamiento de las colonias. También hay que tener una postura adecuada y realizar movimientos suaves, evitando tocar los bordes de la placa y reducir lo máximo posible el tiempo que permanece abierta la placa para prevenir contaminaciones.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
