@@ -121,14 +121,14 @@ Esta alternativa resulta útil si se quiere reservar parte del liófilo seco par
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja o equipo, si procede:** [Indica los nombres o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad y ruta realmente realizadas:** [Ejecución real supervisada, ruta A o B / demostración parcial / práctica detenida antes de abrir; especifica]
+- **Nombre y apellidos:** Ariadna Seguro Ruiz
+- **Fecha real de realización:** 20/10/2026
+- **Grupo:** 2 LCB
+- **Pareja o equipo, si procede:** Trabajo individual - Trabajo en pareja
+- **Rol o tarea principal que realizaste:** Realización de suspensión de cepa en caldo BHI.
+- **Modalidad y ruta realmente realizadas:** Ejecución real supervisada, ruta A.
 - **Referencia de vial, registro o caso docente:** [Completa con el código autorizado; no incluyas datos sensibles]
-- **Responsable que autorizó y supervisó la ejecución:** [Completa]
+- **Responsable que autorizó y supervisó la ejecución:** Antonio Paredes.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
