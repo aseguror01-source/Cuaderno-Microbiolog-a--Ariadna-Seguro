@@ -220,7 +220,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Controles | Comprobación previa de la integridad y etiquetado de tubos y placas; uso de EPI (bata y guantes); manipulación aséptica en la ruta autorizada junto al mechero Bunsen (esterilizando el asa reutilizable a la llama antes y después de la siembra y manteniendo la placa abierta el mínimo tiempo posible); inversión de placas para incubación y verificación visual del resultado (sin incidencias ni signos de contaminación). |
 | Resultado | [9.1.Registro de observaciones y cálculos](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P10_Siembra_en_estria.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
+| Incidencias, medidas y escalado | [11.Incidencias, errores y medidas correctoras](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P10_Siembra_en_estria.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante-y-despu%C3%A9s) |
 | Ruta de residuos y estado final de la placa | Esterilización del asa reutilizable a la llama en la ruta de banco autorizada; gestión de los guantes como residuo biológico (si han entrado en contacto con el cultivo) o asimilable a urbano (si no han tenido contacto) según las instrucciones del centro. Estado final de las placas: cerradas e invertidas, sin crecimiento microbiano observado tras la incubación. |
 | Estado de entrega | Pendiente de revisión. |
 
