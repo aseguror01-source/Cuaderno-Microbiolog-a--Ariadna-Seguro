@@ -237,35 +237,35 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 
 1. **Procedimiento:** ¿Qué verificaste antes de abrir la ampolla y por qué debe comprobarse que el BHI de P07 es adecuado para esa cepa? Si aplicaste B, ¿cómo evitaste contaminar o dispersar el polvo?
 
-   [Respuesta del alumnado]
+   Antes de abrir la ampolla se verificó la identidad, integridad y trazabilidad de la cepa, la autorización y supervisión del centro, las condiciones de contención y EPI, y la disponibilidad e idoneidad del tubo de caldo BHI líquido preparado en P07. Es indispensable comprobar que el caldo BHI de P07 es adecuado para esa cepa porque si la ficha de la cepa exige otro medio o condición incompatible, no se debe abrir la ampolla para evitar comprometer la recuperación del cultivo.
 
 2. **Interpretación:** ¿Qué evidencias permiten valorar crecimiento, viabilidad y pureza, y qué limitación tiene observar solo el aspecto del caldo?
 
-   [Respuesta del alumnado]
+   Para valorar el crecimiento, la viabilidad y la pureza se requieren los registros de trazabilidad, la observación tras el tiempo de incubación establecido (en nuestro caso, unas pequeñas partículas dispersas en el BHI tras aproximadamente una semana en estufa) y los controles posteriores de viabilidad y pureza (como el subcultivo en medio sólido). Observar únicamente el aspecto del caldo tiene la limitación de que ni la turbidez o presencia de partículas confirma la pureza ni la identidad del microorganismo, ni la ausencia de turbidez implica automáticamente inviabilidad, por lo que son necesarias pruebas complementarias.
 
 3. **Conclusiones:** ¿Qué decisión profesional tomarías con el resultado y los controles disponibles: continuar, repetir, detener o escalar? Explica el criterio aplicado.
 
-   [Respuesta del alumnado]
+   Con el resultado obtenido (escaso crecimiento en forma de pequeñas partículas en el medio BHI) y los controles disponibles, la decisión profesional es continuar hacia la fase de comprobación mediante un subcultivo en medio sólido (o una nueva incubación/lectura según protocolo) antes de emplear la cepa como cultivo de trabajo. El criterio aplicado es que, aunque hay indicios de reactivación microbiana, la calidad de la recuperación exige confirmar la viabilidad y pureza mediante controles posteriores y no asumir pureza solo por el aspecto del medio líquido.
 
 4. **Aprendizaje y transferencia:** ¿Qué principio de trazabilidad o bioseguridad aplicarás cuando trabajes con material conservado, medios de cultivo o resultados de identificación en prácticas posteriores?
 
-   [Respuesta del alumnado]
+   Aplicaré el principio de mantener la trazabilidad completa y el rigor en la bioseguridad y técnica aséptica en cada fase: verificar siempre la identificación e idoneidad de los medios antes de manipular, trabajar bajo las condiciones de contención y EPI adecuadas (actuando de inmediato ante incidencias como derrames, cambiando tubo y guantes), y no dar por válida la pureza o identidad de un cultivo sin los subcultivos y controles correspondientes.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P08` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 28/10/2026 |
 | UD / RA / CE | `UD3 / RA03-RA04 / CE03.d–CE03.h; CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja / equipo; especifica] |
-| Modalidad y origen de la evidencia | [Completa] |
+| Agrupamiento | Individual-pareja. |
+| Modalidad y origen de la evidencia | Ejecución real supervisada en el laboratorio |
 | Referencia autorizada de protocolo o caso | [Completa] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Controles | Verificación previa de materiales y medio BHI de P07; manipulación aséptica con mechero Bunsen y EPI; incubación en estufa durante aprox. 1 semana; observación de crecimiento y registro de la necesidad de subcultivo posterior para confirmar viabilidad y pureza. |
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias, medidas y escalado | [Resume o enlaza al apartado 11] |
-| Ruta de residuos o devolución del material | [Completa] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos o devolución del material | Residuos urbanos o asimilables a urbanos: papel de filtro. Residuos biológicos: algodón de las cepas, placas de Petri y restos de ampollas con el polvo de las cepas bacterianas. |
+| Estado de entrega | Pendiente de revisión |
 
 ---
