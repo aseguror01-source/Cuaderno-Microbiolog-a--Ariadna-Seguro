@@ -169,25 +169,25 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 ![Verificación previa y trazabilidad de la cepa, sin datos identificables](../assets/P08/verificacion_y_trazabilidad_01.jpg)
 
-- **Pie de foto:** [Verificación de integridad, identificación y registro, sin mostrar códigos sensibles]
+- **Pie de foto:** Verificación previa de la integridad y trazabilidad de la ampolla liofilizada y del material antes de iniciar la apertura, sin mostrar códigos sensibles.
 - **Modalidad de la evidencia:** Ejecución real.
-- **Autoría y origen:** [Propia / compartida con tu equipo / material docente autorizado]
+- **Autoría y origen:** Propia.
 
 ### Imagen 2 — Material preparado: BHI de P07
 
 ![Tubo de caldo BHI preparado en P07 y material dispuesto antes de la práctica](../assets/P08/bhi_p07_y_material_02.jpg)
 
-- **Pie de foto:** [Tubo de BHI de P07 y material dispuesto antes de abrir la ampolla]
-- **Control de seguridad asociado:** [Verificación previa del medio y del puesto]
-- **Origen de la imagen:** [Propia / demostración docente; especifica]
+- **Pie de foto:** Tubos con medio de cultivo caldo BHI líquido (procedente de P07) en gradilla, dentro de la incubadora.
+- **Control de seguridad asociado:** Verificación previa de la disponibilidad e idoneidad del medio de cultivo y preparación ordenada del puesto de trabajo. 
+- **Origen de la imagen:** Propia.
 
 ### Imagen 3 — Preparación del área de trabajo
 
 ![Área de trabajo y sistema de contención preparados según el protocolo local](../assets/P08/area_de_trabajo_preparada_03.jpg)
 
-- **Pie de foto:** [Sistema de contención y EPI, sin mostrar manipulación si la fotografía no está autorizada]
-- **Control de seguridad asociado:** [Completa]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Puesto de trabajo preparado con mechero Bünsen y equipo de protección individual (EPI) antes de la manipulación de la cepa junto con el instrumental preparado (pinzas, asa de siembra, pipeta Pasteur, agua destilada, alcohol, papel de filtro y rotulador permanente)
+- **Control de seguridad asociado:** Preparación de la zona de trabajo aséptica con mechero Bunsen, uso de EPI (guantes) y disponibilidad de materiales de limpieza y contención.
+- **Autoría y origen:** Propia.
 
 ### Imagen 4 — Rehidratación o toma de polvo y cierre secundario
 
