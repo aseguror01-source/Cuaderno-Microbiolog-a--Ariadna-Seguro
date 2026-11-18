@@ -264,7 +264,7 @@ Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con 
 | Controles | Verificación previa de materiales y medio BHI de P07; manipulación aséptica con mechero Bunsen y EPI; incubación en estufa durante aprox. 1 semana; observación de crecimiento y registro de la necesidad de subcultivo posterior para confirmar viabilidad y pureza. |
 | Resultado | [9.1.Registro de observaciones y cálculos](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#91-registro-de-observaciones-y-c%C3%A1lculos) |
 | Interpretación | [12.Interpretación técnica] |
-| Incidencias, medidas y escalado | [11.Incidencias, errores y medidas correctoras] |
+| Incidencias, medidas y escalado | [11.Incidencias, errores y medidas correctoras](https://github.com/aseguror01-source/Cuaderno-Microbiolog-a--Ariadna-Seguro/blob/main/docs/practicas/P08_Recuperacion_de_liofilizados.md#11-incidencias-errores-y-medidas-correctoras-alumnado--rellenable--durante) |
 | Ruta de residuos o devolución del material | Residuos urbanos o asimilables a urbanos: papel de filtro. Residuos biológicos: algodón de las cepas, placas de Petri y restos de ampollas con el polvo de las cepas bacterianas. |
 | Estado de entrega | Pendiente de revisión |
 
