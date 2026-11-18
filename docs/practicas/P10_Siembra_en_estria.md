@@ -216,7 +216,7 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | UD / RA / CE | `UD3 / RA04 / CE04.a–CE04.e` |
 | Agrupamiento | Pareja; MIriam García y Paula Escobar |
 | Modalidad y origen del material o evidencia | Práctica Real presencial. |
-| Placa, medio y referencia autorizada | [Completa] |
+| Placa, medio y referencia autorizada | Placas de Petri con medio sólido Agar Nutritivo, inoculadas a partir del cultivo líquido procedente de la práctica P08 (Staphylococcus/Carnobacterium) identificadas con la referencia del grupo (G.3) y fecha 04/11/2026. |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
