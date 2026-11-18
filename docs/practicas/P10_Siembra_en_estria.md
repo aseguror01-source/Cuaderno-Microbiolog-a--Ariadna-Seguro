@@ -179,13 +179,13 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 Interpreta la calidad de la técnica y el patrón de crecimiento observado. Explica qué controles apoyan la lectura, qué incidencia podría explicar un resultado no esperado y por qué una descripción macroscópica no permite identificar de forma definitiva un microorganismo ni declarar pureza sin controles posteriores.
 
-[Escribe aquí tu interpretación técnica.]
+La siembra en estría simple continua se realizó para cultivar los microorganismos Staphylococcus y Carnobacterium en un medio sólido. La técnica consiste en extender el inóculo por la superficie del agar, manteniendo las condiciones de esterilidad. Los resultados se valorarán después de la incubación, observando si se produce crecimiento microbiano. Para identificar los microorganismos y comprobar la pureza del cultivo serían necesarias pruebas posteriores.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora si alcanzaste el objetivo de realizar una siembra en estría simple o continua de forma segura. Relaciona razonadamente el objetivo con el procedimiento y el resultado registrado; identifica cualquier limitación o resultado pendiente.
 
-[Escribe aquí tu conclusión.]
+El objetivo de realizar una siembra en estría simple se ha cumplido, ya que se ha extendido el inóculo sobre la superficie del medio de cultivo sólido, siguiendo el procedimiento adecuado y manteniendo las condiciones de esterilidad. La práctica ha permitido conocer y aplicar esta técnica de siembra para favorecer el crecimiento microbiano. No obstante, será necesario esperar a la incubación para valorar el crecimiento obtenido y comprobar los resultados.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -212,9 +212,9 @@ Uno de los errores más importantes que destacaría sería hacer demasiada presi
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P10` |
-| Fecha de ejecución / lectura | [Completa] |
+| Fecha de ejecución / lectura | 04/11/2026 |
 | UD / RA / CE | `UD3 / RA04 / CE04.a–CE04.e` |
-| Agrupamiento | [Individual / pareja; especifica] |
+| Agrupamiento | Pareja; MIriam García y Paula Escobar |
 | Modalidad y origen del material o evidencia | Práctica Real presencial. |
 | Placa, medio y referencia autorizada | [Completa] |
 | Controles | [Resume los controles aplicados y sus evidencias, si procede] |
