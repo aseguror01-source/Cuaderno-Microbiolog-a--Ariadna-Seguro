@@ -149,25 +149,25 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 ![Preparación segura](../assets/P10/preparacion_segura_01.jpg)
 
-- **Pie de foto:** [Qué se observa: EPI, puesto desinfectado, placa etiquetada o material dispuesto]
-- **Control de seguridad o trazabilidad que demuestra:** [Completa]
-- **Autoría:** [Propia / compartida con tu pareja]
+- **Pie de foto:** Se observa el puesto de trabajo preparado en el banco con mechero Bunsen encendido, una gradilla metálica con cuatro tubos de cultivo en medio líquido, una placa de Petri cerrada con medio sólido, dos asas de siembra sobre la mesa y las manos del operario protegidas con EPI (guantes de nitrilo azules y bata blanca de laboratorio).
+- **Control de seguridad o trazabilidad que demuestra:** Uso de EPI reglamentario (bata y guantes), empleo de ruta de trabajo en banco junto al mechero Bunsen y mantenimiento de los recipientes (placa y tubos) cerrados antes de iniciar la transferencia.
+- **Autoría:** Compartida con pareja.
 
 ### Imagen 2 — Patrón de siembra
 
 ![Patrón de siembra](../assets/P10/patron_de_siembra_o_demostracion_02.jpg)
 
-- **Pie de foto:** [Qué se observa durante la estría]
-- **Decisión técnica asociada:** [Completa]
-- **Origen de la imagen:** [Ejecución propia supervisada; indica quién la tomó]
+- **Pie de foto:** Montaje de dos fotografías durante la ejecución de la siembra en estría continua en zigzag sobre la superficie del agar utilizando el asa de siembra reutilizable junto al mechero Bunsen. Se observa la placa etiquetada en el lateral (donde se lee Carnobacterium y Agar Nutritivo) abierta parcialmente con una mano enguantada mientras se desliza el asa sobre el medio.
+- **Decisión técnica asociada:** Apertura parcial y mínima de la placa junto a la zona de esterilidad del mechero Bunsen para evitar contaminaciones ambientales, trazando las estrías de lado a lado con el asa paralela a la superficie para no perforar el agar ni tocar los bordes.
+- **Origen de la imagen:** Ejecución propia supervisada; Compartida con pareja.
 
 ### Imagen 3 — Lectura macroscópica
 
 ![Lectura macroscópica](../assets/P10/lectura_macroscopica_o_resultado_docente_03.jpg)
 
-- **Pie de foto:** [Patrón, aspecto general o resultado que se interpreta]
-- **Relación con el resultado principal:** [Explica cómo la evidencia respalda o limita la conclusión]
-- **Autoría y origen:** [Completa]
+- **Pie de foto:** Tres placas de Petri cerradas e invertidas sobre el banco de trabajo junto al mechero Bunsen. Se distinguen las etiquetas manuscritas en los laterales con la identificación del grupo (G.3), el medio de cultivo (Agar Nutritivo), la cepa (Staphylococcus/Carnobacterium) y la fecha (04/11/2026). se aprecia condensación en el interior de las tapas y ausencia de colonias visibles (sin crecimiento) en el agar.
+- **Relación con el resultado principal:** Tras la incubación no se observó crecimiento.
+- **Autoría y origen:** Compartida con pareja.
 
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
