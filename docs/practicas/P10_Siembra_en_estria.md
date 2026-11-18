@@ -121,13 +121,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Enumera los reactivos y materiales que vas a utilizar] |
+| Instrumental | El instrumental que hemos utilizado ha sido: asa de siembra, gradilla, placas con medio sólido y cultivo en medio liquido de la P08 |
+| Equipos |Hemos utilizado el mechero Bunsen|
+| Reactivos/materiales | Papel de filtro para preparar el material antes de dirigirnos a los mecheros |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Guantes| Biológico (si ha entrado en contacto con el cultivo) si no es así es asimilable a lo urbano |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
