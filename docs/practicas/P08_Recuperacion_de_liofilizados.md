@@ -217,7 +217,7 @@ Registra datos de la ejecución real o indica si la actividad se detuvo antes de
 
 | Incidencia, error o duda detectada | Posible causa | Medida correctora, decisión de parada o escalado | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe “No se detectaron incidencias”] | [Completa] | [Completa] | [Sí / No; explica] |
+| Vertido de uno de los tubos de clado BHI | Demasiada inclinación del tubo | Limpieza del derrame, cambio de tubo y cambio de guantes (EPI) | No, no ha supuesto ningun problema en la práctica |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
