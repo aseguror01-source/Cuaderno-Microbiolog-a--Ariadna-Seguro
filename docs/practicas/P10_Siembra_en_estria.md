@@ -106,7 +106,7 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 - **Nombre y apellidos:** Ariadna Seguro Ruiz
 - **Fecha de ejecución:** 04/11/2026
-- **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
+- **Fecha de lectura, si procede:** 06/11/2026
 - **Grupo:** 2 LCB
 - **Pareja de trabajo, si procede:** Miriam García y Paula Escobar
 - **Rol o tarea principal que realizaste:** Preparación del material, siembra de 2 placas.
