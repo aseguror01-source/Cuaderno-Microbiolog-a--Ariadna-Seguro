@@ -104,13 +104,13 @@ La descripción macroscópica debe limitarse a lo realmente observable: presenci
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha de ejecución:** [dd/mm/aaaa]
+- **Nombre y apellidos:** Ariadna Seguro Ruiz
+- **Fecha de ejecución:** 04/11/2026
 - **Fecha de lectura, si procede:** [dd/mm/aaaa / pendiente / no aplicaba]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o escribe “Trabajo individual”]
-- **Rol o tarea principal que realizaste:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Ejecución real supervisada; indica si fue individual o por parejas]
+- **Grupo:** 2 LCB
+- **Pareja de trabajo, si procede:** Miriam García y Paula Escobar
+- **Rol o tarea principal que realizaste:** Preparación del material, siembra de 2 placas.
+- **Modalidad realmente realizada:** Ejecución real supervisada; En pareja.
 - **Código autorizado del cultivo de trabajo de P08 y de la placa:** [Completa sin incluir datos sensibles]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -137,9 +137,9 @@ Registra los datos de tu ejecución real y su relación trazable con P08. Escrib
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe el producto obtenido o los hallazgos observados; incluye valores y unidades cuando corresponda, su origen y las limitaciones del resultado] |
+| Cálculos (si procede) | No procede |
+| Configuración de equipos (si procede) | Se ha utilizado el mechero Bünsen. La llama debe estar azul (no naranja) y hay que tener cuidado con la fuente de gas |
+| Características del producto o resultado final | Tras la incubación no se observó crecimiento |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
