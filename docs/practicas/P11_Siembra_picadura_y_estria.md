@@ -283,7 +283,7 @@ Incluye fotografías propias de la práctica real solo si su captura está autor
 
 | Incidencia, duda o desviación | Riesgo o efecto posible | Acción adoptada | Comunicación al centro | Impacto en el resultado |
 | --- | --- | --- | --- | --- |
-| [Escribe aquí o “No se registraron incidencias”] | [Escribe aquí] | [Escribe aquí] | [Sí / no / no aplica] | [Escribe aquí] |
+| No se detectaron incidencias durante la preparación. | Se siguió el procedimiento indicado y se utilizaron correctamente los materiales. No existió riesgo. | No hubo necesidad de adoptar ninguna medida correctora. | No aplica | No, ya que no se detectaron problemas durante la preparación. |
 
 ---
 
