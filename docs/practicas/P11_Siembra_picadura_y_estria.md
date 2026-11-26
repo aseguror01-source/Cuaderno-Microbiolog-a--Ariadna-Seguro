@@ -28,10 +28,10 @@ student_completion: "Individual o por pareja, según la organización del grupo"
 
 | Campo | Registro del alumnado |
 | --- | --- |
-| Nombre y apellidos | [Escribe aquí] |
-| Grupo / pareja de trabajo | [Escribe aquí] |
-| Fecha de realización | [dd/mm/aaaa] |
-| Fecha de lectura o revisión | [dd/mm/aaaa] |
+| Nombre y apellidos | Ariadna Seguro Ruiz |
+| Grupo / pareja de trabajo | Miriam García y Paula Escobar |
+| Fecha de realización | 18/11/2026 |
+| Fecha de lectura o revisión | 24/11/2026 |
 | Rol desempeñado | [Operador/a, observador/a, registrador/a u otro] |
 | Modalidad de trabajo | Ejecución real supervisada en el laboratorio docente |
 | Cultivo previo y colonia asignada | [Código trazable autorizado; no añadas datos sensibles] |
