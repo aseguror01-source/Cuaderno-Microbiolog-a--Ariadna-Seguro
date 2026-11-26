@@ -223,9 +223,9 @@ Registra los datos observados en la ejecución real de los tubos A, B y C. Escri
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe A: estría superficial; B: crecimiento en la trayectoria recta; C: picadura y superficie estriada por separado. Indica controles y limitaciones.] |
+| Cálculos (si procede) | No |
+| Configuración de equipos (si procede) | Al utilizar el mechero Bünsen para crear una zona aséptica a la hora de realizar las siembras. Para ello se necesita tener un control y configurar de forma correcta la llama, manipulando con cuidado y según el protocolo seguido por el profesor. |
+| Características del producto o resultado final | A(estría superficial): se traza una estría continua en zigzag ascendente sobre la superficie, sin perforar ni rayar el agar. El crecimiento se observa sobre toda la superficie del medio (medio sólido inclinado en tubo) con forma de estría; B (crecimiento en la trayectoria recta): se introduce el hilo por el centro del agar, siguiendo el eje del tubo y una sola trayectoria recta, se detiene la picadura cerca del fondo, sin atravesar el medio ni tocar el vidrio inferior y se retira el hilo por el mismo trayecto, sin movimientos laterales que ensanchen o desvíen el canal. El crecimiento se observa en línea recta donde se realizó la picadura; C(picadura y superficie estriada): se introduce el hilo en línea recta por el centro de la zona profunda, sin alcanzar ni perforar el vidrio del fondo y se retira el hilo por la misma trayectoria; al llegar a la superficie inclinada se repite la estría de la misma forma que en el tubo A. El crecimiento se observa en la picadura realizada y sobre la superficie en estrías  |
 
 ## 10. Evidencias visuales
 
