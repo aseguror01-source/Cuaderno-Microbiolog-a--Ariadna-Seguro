@@ -207,13 +207,14 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera los equipos que vas a utilizar] |
-| Reactivos/materiales | [Incluye la colonia asignada y tres tubos con medio sólido: A y C inclinados; B recto.] |
+|---|---|
+| Instrumental | Asa de siembra, hilo de siembra |
+| Equipos | Mechero Bunsen |
+| Reactivos/materiales | Colonia de Bacillus y tres tubos con medio sólido: A y C inclinados; B recto |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| No aplica | No aplica |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
