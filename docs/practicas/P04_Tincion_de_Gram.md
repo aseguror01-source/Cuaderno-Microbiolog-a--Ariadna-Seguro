@@ -88,12 +88,14 @@ La tinción de Gram comprende colorante primario, mordiente, decoloración, cont
 Enumera los materiales y equipos previstos para teñir colonias autorizadas. Incluye por separado los líquidos con reactivos, el material contaminado y el vidrio; clasifica cada residuo según el circuito confirmado por el centro.
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos, asa, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta u otro] |
-| Equipos | [Microscopio y objetivo; mechero Bunsen solo si está autorizado] |
-| Reactivos/materiales | [Colonia y código docente, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos] |
+| Instrumental | Portaobjetos, asa de siembra, pipeta Pasteur, papel de filtro, puente, frasco lavador, cubeta |
+| Equipos | Microscopio y objetivo; mechero Bunsen |
+| Reactivos/materiales | Colonia de Staphylococcus de la siembra realizada el día, suero fisiológico estéril, agua destilada, kit y reactivos concretos, EPI, recipiente de residuos |
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+| Residuos químicos del kit de la tinción de Gram | Residuos químicos |
+| Papel de filtro | Urbanos |
+| Papel absorbente | Urbanos |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
