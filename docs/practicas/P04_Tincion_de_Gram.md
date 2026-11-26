@@ -163,19 +163,26 @@ Valora razonadamente en qué medida el procedimiento aplicado y el resultado obt
 Responde de forma razonada a las cuatro preguntas. Relaciona cada respuesta con datos, observaciones o imágenes incluidas en tu cuaderno.
 **1. Procedimiento:** ¿Qué paso de la secuencia de Gram consideras más determinante para no alterar la reacción tintorial y cómo verificaste que se controló adecuadamente?
 
-   [Respuesta del alumnado]
+   El paso más determinante es la decoloración con alcohol, ya que es fundamental controlar el tiempo para evitar alterar el resultado de la tinción. Si se prolonga demasiado, las bacterias Gram positivas pueden perder el color violeta. Para evitarlo, controlé el tiempo de aplicación y realicé los lavados siguiendo el procedimiento indicado.
    
 **2. Interpretación — Sobre la edad del cultivo:** ¿De qué manera la edad o el estado fisiológico de la colonia empleada puede modificar la respuesta tintorial esperada en bacterias Gram positivas?
 
-   [Respuesta del alumnado]
+   La edad del cultivo puede modificar la respuesta tintorial de las bacterias Gram positivas. En cultivos envejecidos, la pared celular puede deteriorarse y perder su capacidad para retener el cristal violeta, por lo que algunas bacterias pueden aparecer teñidas de rosa en lugar de violeta, dando lugar a resultados Gram variables.
    
 **3. Conclusiones — Sobre el alcance diagnóstico:** Más allá de orientar el grupo tintorial y la morfología, ¿qué información crítica sobre la cepa no puede obtenerse mediante esta técnica y qué pruebas posteriores requeriría?
 
-   [Respuesta del alumnado]
+   La tinción de Gram permite diferenciar las bacterias según su reacción tintorial y observar su morfología y agrupación. Sin embargo, no permite identificar con exactitud la especie bacteriana ni conocer su sensibilidad a los antibióticos. Para obtener esta información serían necesarias pruebas posteriores, como cultivos, pruebas bioquímicas y antibiogramas.
    
 **4. Aprendizaje y transferencia — Sobre otras técnicas:** De las habilidades desarrolladas al preparar el frotis y controlar tiempos críticos en Gram, ¿cuáles consideras directamente transferibles a otras tinciones diferenciales (como Ziehl-Neelsen)?
 
-   [Respuesta del alumnado]
+   Las habilidades que se pueden aplicar a otras tinciones diferenciales, como Ziehl-Neelsen, son:
+
+ - Preparar correctamente el frotis y fijar la muestra de forma adecuada.
+
+ - Controlar los tiempos de aplicación de los colorantes y decolorantes.
+
+ - Realizar los lavados correctamente y observar la preparación al microscopio para interpretar los resultados.
+
    
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 | Campo | Registro del alumnado |
